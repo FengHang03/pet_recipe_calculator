@@ -1,0 +1,1936 @@
+fdc_id,description,food_category_id,nutrient_id,name,amount,unit_name
+169902,"Quail, cooked, total edible",5,1003,Protein,25.1,G
+169902,"Quail, cooked, total edible",5,1004,Total lipid (fat),14.1,G
+169902,"Quail, cooked, total edible",5,1005,"Carbohydrate, by difference",0.0,G
+169902,"Quail, cooked, total edible",5,1008,Energy,227.0,KCAL
+169902,"Quail, cooked, total edible",5,1087,"Calcium, Ca",15.0,MG
+169902,"Quail, cooked, total edible",5,1088,"Chlorine, Cl",0.0,MG
+169902,"Quail, cooked, total edible",5,1089,"Iron, Fe",4.43,MG
+169902,"Quail, cooked, total edible",5,1090,"Magnesium, Mg",22.0,MG
+169902,"Quail, cooked, total edible",5,1091,"Phosphorus, P",279.0,MG
+169902,"Quail, cooked, total edible",5,1092,"Potassium, K",216.0,MG
+169902,"Quail, cooked, total edible",5,1093,"Sodium, Na",52.0,MG
+169902,"Quail, cooked, total edible",5,1095,"Zinc, Zn",3.1,MG
+169902,"Quail, cooked, total edible",5,1098,"Copper, Cu",0.592,MG
+169902,"Quail, cooked, total edible",5,1100,"Iodine, I",0.0,UG
+169902,"Quail, cooked, total edible",5,1101,"Manganese, Mn",0.0,MG
+169902,"Quail, cooked, total edible",5,1103,"Selenium, Se",21.8,UG
+169902,"Quail, cooked, total edible",5,1104,"Vitamin A, IU",234.0,IU
+169902,"Quail, cooked, total edible",5,1110,"Vitamin D (D2 + D3), International Units",8.0,IU
+169902,"Quail, cooked, total edible",5,1109,Vitamin E (alpha-tocopherol),0.7,MG
+169902,"Quail, cooked, total edible",5,1165,Thiamin,0.22,MG
+169902,"Quail, cooked, total edible",5,1166,Riboflavin,0.3,MG
+169902,"Quail, cooked, total edible",5,1167,Niacin,7.92,MG
+169902,"Quail, cooked, total edible",5,1170,Pantothenic acid,0.0,MG
+169902,"Quail, cooked, total edible",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169902,"Quail, cooked, total edible",5,1178,Vitamin B-12,0.36,UG
+169902,"Quail, cooked, total edible",5,1180,"Choline, total",65.9,MG
+169902,"Quail, cooked, total edible",5,1186,Folic acid,0.0,UG
+169902,"Quail, cooked, total edible",5,1210,Tryptophan,0.0,G
+169902,"Quail, cooked, total edible",5,1211,Threonine,0.0,G
+169902,"Quail, cooked, total edible",5,1212,Isoleucine,0.0,G
+169902,"Quail, cooked, total edible",5,1213,Leucine,0.0,G
+169902,"Quail, cooked, total edible",5,1214,Lysine,0.0,G
+169902,"Quail, cooked, total edible",5,1215,Methionine,0.0,G
+169902,"Quail, cooked, total edible",5,1217,Phenylalanine,0.0,G
+169902,"Quail, cooked, total edible",5,1219,Valine,0.0,G
+169902,"Quail, cooked, total edible",5,1220,Arginine,0.0,G
+169902,"Quail, cooked, total edible",5,1221,Histidine,0.0,G
+169902,"Quail, cooked, total edible",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169902,"Quail, cooked, total edible",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169902,"Quail, cooked, total edible",5,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169902,"Quail, cooked, total edible",5,1278,PUFA 20:5 n-3 (EPA),0.012,G
+169902,"Quail, cooked, total edible",5,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169902,"Quail, cooked, total edible",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169903,"Pheasant, cooked, total edible",5,1003,Protein,32.4,G
+169903,"Pheasant, cooked, total edible",5,1004,Total lipid (fat),12.1,G
+169903,"Pheasant, cooked, total edible",5,1005,"Carbohydrate, by difference",0.0,G
+169903,"Pheasant, cooked, total edible",5,1008,Energy,239.0,KCAL
+169903,"Pheasant, cooked, total edible",5,1087,"Calcium, Ca",16.0,MG
+169903,"Pheasant, cooked, total edible",5,1088,"Chlorine, Cl",0.0,MG
+169903,"Pheasant, cooked, total edible",5,1089,"Iron, Fe",1.43,MG
+169903,"Pheasant, cooked, total edible",5,1090,"Magnesium, Mg",22.0,MG
+169903,"Pheasant, cooked, total edible",5,1091,"Phosphorus, P",242.0,MG
+169903,"Pheasant, cooked, total edible",5,1092,"Potassium, K",271.0,MG
+169903,"Pheasant, cooked, total edible",5,1093,"Sodium, Na",43.0,MG
+169903,"Pheasant, cooked, total edible",5,1095,"Zinc, Zn",1.37,MG
+169903,"Pheasant, cooked, total edible",5,1098,"Copper, Cu",0.084,MG
+169903,"Pheasant, cooked, total edible",5,1100,"Iodine, I",0.0,UG
+169903,"Pheasant, cooked, total edible",5,1101,"Manganese, Mn",0.0,MG
+169903,"Pheasant, cooked, total edible",5,1103,"Selenium, Se",20.7,UG
+169903,"Pheasant, cooked, total edible",5,1104,"Vitamin A, IU",190.0,IU
+169903,"Pheasant, cooked, total edible",5,1110,"Vitamin D (D2 + D3), International Units",7.0,IU
+169903,"Pheasant, cooked, total edible",5,1109,Vitamin E (alpha-tocopherol),0.27,MG
+169903,"Pheasant, cooked, total edible",5,1165,Thiamin,0.07,MG
+169903,"Pheasant, cooked, total edible",5,1166,Riboflavin,0.18,MG
+169903,"Pheasant, cooked, total edible",5,1167,Niacin,7.53,MG
+169903,"Pheasant, cooked, total edible",5,1170,Pantothenic acid,0.0,MG
+169903,"Pheasant, cooked, total edible",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169903,"Pheasant, cooked, total edible",5,1178,Vitamin B-12,0.72,UG
+169903,"Pheasant, cooked, total edible",5,1180,"Choline, total",85.8,MG
+169903,"Pheasant, cooked, total edible",5,1186,Folic acid,0.0,UG
+169903,"Pheasant, cooked, total edible",5,1210,Tryptophan,0.0,G
+169903,"Pheasant, cooked, total edible",5,1211,Threonine,0.0,G
+169903,"Pheasant, cooked, total edible",5,1212,Isoleucine,0.0,G
+169903,"Pheasant, cooked, total edible",5,1213,Leucine,0.0,G
+169903,"Pheasant, cooked, total edible",5,1214,Lysine,0.0,G
+169903,"Pheasant, cooked, total edible",5,1215,Methionine,0.0,G
+169903,"Pheasant, cooked, total edible",5,1217,Phenylalanine,0.0,G
+169903,"Pheasant, cooked, total edible",5,1219,Valine,0.0,G
+169903,"Pheasant, cooked, total edible",5,1220,Arginine,0.0,G
+169903,"Pheasant, cooked, total edible",5,1221,Histidine,0.0,G
+169903,"Pheasant, cooked, total edible",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169903,"Pheasant, cooked, total edible",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169903,"Pheasant, cooked, total edible",5,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169903,"Pheasant, cooked, total edible",5,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169903,"Pheasant, cooked, total edible",5,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169903,"Pheasant, cooked, total edible",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169905,"Dove, cooked (includes squab)",5,1003,Protein,23.9,G
+169905,"Dove, cooked (includes squab)",5,1004,Total lipid (fat),13.0,G
+169905,"Dove, cooked (includes squab)",5,1005,"Carbohydrate, by difference",0.0,G
+169905,"Dove, cooked (includes squab)",5,1008,Energy,213.0,KCAL
+169905,"Dove, cooked (includes squab)",5,1087,"Calcium, Ca",17.0,MG
+169905,"Dove, cooked (includes squab)",5,1088,"Chlorine, Cl",0.0,MG
+169905,"Dove, cooked (includes squab)",5,1089,"Iron, Fe",5.91,MG
+169905,"Dove, cooked (includes squab)",5,1090,"Magnesium, Mg",26.0,MG
+169905,"Dove, cooked (includes squab)",5,1091,"Phosphorus, P",332.0,MG
+169905,"Dove, cooked (includes squab)",5,1092,"Potassium, K",256.0,MG
+169905,"Dove, cooked (includes squab)",5,1093,"Sodium, Na",57.0,MG
+169905,"Dove, cooked (includes squab)",5,1095,"Zinc, Zn",3.83,MG
+169905,"Dove, cooked (includes squab)",5,1098,"Copper, Cu",0.763,MG
+169905,"Dove, cooked (includes squab)",5,1100,"Iodine, I",0.0,UG
+169905,"Dove, cooked (includes squab)",5,1101,"Manganese, Mn",0.0,MG
+169905,"Dove, cooked (includes squab)",5,1103,"Selenium, Se",20.1,UG
+169905,"Dove, cooked (includes squab)",5,1104,"Vitamin A, IU",95.0,IU
+169905,"Dove, cooked (includes squab)",5,1110,"Vitamin D (D2 + D3), International Units",7.0,IU
+169905,"Dove, cooked (includes squab)",5,1109,Vitamin E (alpha-tocopherol),0.06,MG
+169905,"Dove, cooked (includes squab)",5,1165,Thiamin,0.28,MG
+169905,"Dove, cooked (includes squab)",5,1166,Riboflavin,0.35,MG
+169905,"Dove, cooked (includes squab)",5,1167,Niacin,7.6,MG
+169905,"Dove, cooked (includes squab)",5,1170,Pantothenic acid,0.0,MG
+169905,"Dove, cooked (includes squab)",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169905,"Dove, cooked (includes squab)",5,1178,Vitamin B-12,0.41,UG
+169905,"Dove, cooked (includes squab)",5,1180,"Choline, total",63.6,MG
+169905,"Dove, cooked (includes squab)",5,1186,Folic acid,0.0,UG
+169905,"Dove, cooked (includes squab)",5,1210,Tryptophan,0.0,G
+169905,"Dove, cooked (includes squab)",5,1211,Threonine,0.0,G
+169905,"Dove, cooked (includes squab)",5,1212,Isoleucine,0.0,G
+169905,"Dove, cooked (includes squab)",5,1213,Leucine,0.0,G
+169905,"Dove, cooked (includes squab)",5,1214,Lysine,0.0,G
+169905,"Dove, cooked (includes squab)",5,1215,Methionine,0.0,G
+169905,"Dove, cooked (includes squab)",5,1217,Phenylalanine,0.0,G
+169905,"Dove, cooked (includes squab)",5,1219,Valine,0.0,G
+169905,"Dove, cooked (includes squab)",5,1220,Arginine,0.0,G
+169905,"Dove, cooked (includes squab)",5,1221,Histidine,0.0,G
+169905,"Dove, cooked (includes squab)",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169905,"Dove, cooked (includes squab)",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169905,"Dove, cooked (includes squab)",5,1272,PUFA 22:6 n-3 (DHA),0.015,G
+169905,"Dove, cooked (includes squab)",5,1278,PUFA 20:5 n-3 (EPA),0.005,G
+169905,"Dove, cooked (includes squab)",5,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169905,"Dove, cooked (includes squab)",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+170886,"Yogurt, plain, low fat",1,1003,Protein,5.25,G
+170886,"Yogurt, plain, low fat",1,1004,Total lipid (fat),1.55,G
+170886,"Yogurt, plain, low fat",1,1005,"Carbohydrate, by difference",7.04,G
+170886,"Yogurt, plain, low fat",1,1008,Energy,63.0,KCAL
+170886,"Yogurt, plain, low fat",1,1087,"Calcium, Ca",183.0,MG
+170886,"Yogurt, plain, low fat",1,1088,"Chlorine, Cl",0.0,MG
+170886,"Yogurt, plain, low fat",1,1089,"Iron, Fe",0.08,MG
+170886,"Yogurt, plain, low fat",1,1090,"Magnesium, Mg",17.0,MG
+170886,"Yogurt, plain, low fat",1,1091,"Phosphorus, P",144.0,MG
+170886,"Yogurt, plain, low fat",1,1092,"Potassium, K",234.0,MG
+170886,"Yogurt, plain, low fat",1,1093,"Sodium, Na",70.0,MG
+170886,"Yogurt, plain, low fat",1,1095,"Zinc, Zn",0.89,MG
+170886,"Yogurt, plain, low fat",1,1098,"Copper, Cu",0.013,MG
+170886,"Yogurt, plain, low fat",1,1100,"Iodine, I",0.0,UG
+170886,"Yogurt, plain, low fat",1,1101,"Manganese, Mn",0.004,MG
+170886,"Yogurt, plain, low fat",1,1103,"Selenium, Se",3.3,UG
+170886,"Yogurt, plain, low fat",1,1104,"Vitamin A, IU",51.0,IU
+170886,"Yogurt, plain, low fat",1,1110,"Vitamin D (D2 + D3), International Units",1.0,IU
+170886,"Yogurt, plain, low fat",1,1109,Vitamin E (alpha-tocopherol),0.03,MG
+170886,"Yogurt, plain, low fat",1,1165,Thiamin,0.044,MG
+170886,"Yogurt, plain, low fat",1,1166,Riboflavin,0.214,MG
+170886,"Yogurt, plain, low fat",1,1167,Niacin,0.114,MG
+170886,"Yogurt, plain, low fat",1,1170,Pantothenic acid,0.591,MG
+170886,"Yogurt, plain, low fat",1,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+170886,"Yogurt, plain, low fat",1,1178,Vitamin B-12,0.56,UG
+170886,"Yogurt, plain, low fat",1,1180,"Choline, total",15.2,MG
+170886,"Yogurt, plain, low fat",1,1186,Folic acid,0.0,UG
+170886,"Yogurt, plain, low fat",1,1210,Tryptophan,0.03,G
+170886,"Yogurt, plain, low fat",1,1211,Threonine,0.216,G
+170886,"Yogurt, plain, low fat",1,1212,Isoleucine,0.286,G
+170886,"Yogurt, plain, low fat",1,1213,Leucine,0.529,G
+170886,"Yogurt, plain, low fat",1,1214,Lysine,0.471,G
+170886,"Yogurt, plain, low fat",1,1215,Methionine,0.155,G
+170886,"Yogurt, plain, low fat",1,1217,Phenylalanine,0.286,G
+170886,"Yogurt, plain, low fat",1,1219,Valine,0.434,G
+170886,"Yogurt, plain, low fat",1,1220,Arginine,0.158,G
+170886,"Yogurt, plain, low fat",1,1221,Histidine,0.13,G
+170886,"Yogurt, plain, low fat",1,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+170886,"Yogurt, plain, low fat",1,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+170886,"Yogurt, plain, low fat",1,1272,PUFA 22:6 n-3 (DHA),0.0,G
+170886,"Yogurt, plain, low fat",1,1278,PUFA 20:5 n-3 (EPA),0.0,G
+170886,"Yogurt, plain, low fat",1,1316,"PUFA 18:2 n-6 c,c",0.0,G
+170886,"Yogurt, plain, low fat",1,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1003,Protein,23.28,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1004,Total lipid (fat),10.92,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1005,"Carbohydrate, by difference",0.0,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1008,Energy,189.0,KCAL
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1087,"Calcium, Ca",8.0,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1088,"Chlorine, Cl",0.0,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1089,"Iron, Fe",0.93,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1090,"Magnesium, Mg",28.0,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1091,"Phosphorus, P",234.0,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1092,"Potassium, K",677.0,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1093,"Sodium, Na",75.0,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1095,"Zinc, Zn",1.92,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1098,"Copper, Cu",0.062,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1100,"Iodine, I",0.0,UG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1101,"Manganese, Mn",0.016,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1103,"Selenium, Se",14.3,UG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1104,"Vitamin A, IU",0.0,IU
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1109,Vitamin E (alpha-tocopherol),0.39,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1165,Thiamin,0.121,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1166,Riboflavin,0.302,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1167,Niacin,7.107,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1170,Pantothenic acid,1.327,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1178,Vitamin B-12,0.51,UG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1180,"Choline, total",59.0,MG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1186,Folic acid,0.0,UG
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1210,Tryptophan,0.196,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1211,Threonine,0.97,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1212,Isoleucine,1.06,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1213,Leucine,1.816,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1214,Lysine,2.014,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1215,Methionine,0.596,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1217,Phenylalanine,0.912,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1219,Valine,1.102,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1220,Arginine,1.505,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1221,Histidine,0.706,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1272,PUFA 22:6 n-3 (DHA),0.031,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1278,PUFA 20:5 n-3 (EPA),0.008,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1316,"PUFA 18:2 n-6 c,c",1.787,G
+171117,"Chicken, ground, crumbles, cooked, pan-browned",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.081,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1003,Protein,32.06,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1004,Total lipid (fat),3.24,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1005,"Carbohydrate, by difference",0.0,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1008,Energy,157.0,KCAL
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1087,"Calcium, Ca",6.0,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1088,"Chlorine, Cl",0.0,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1089,"Iron, Fe",0.49,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1090,"Magnesium, Mg",32.0,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1091,"Phosphorus, P",241.0,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1092,"Potassium, K",343.0,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1093,"Sodium, Na",47.0,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1095,"Zinc, Zn",0.96,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1098,"Copper, Cu",0.044,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1100,"Iodine, I",0.0,UG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1101,"Manganese, Mn",0.012,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1103,"Selenium, Se",31.9,UG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1104,"Vitamin A, IU",33.0,IU
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1110,"Vitamin D (D2 + D3), International Units",1.0,IU
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1109,Vitamin E (alpha-tocopherol),0.33,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1165,Thiamin,0.098,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1166,Riboflavin,0.187,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1167,Niacin,9.45,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1170,Pantothenic acid,1.585,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1178,Vitamin B-12,0.2,UG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1180,"Choline, total",117.0,MG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1186,Folic acid,0.0,UG
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1210,Tryptophan,0.404,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1211,Threonine,1.438,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1212,Isoleucine,1.573,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1213,Leucine,2.652,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1214,Lysine,3.083,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1215,Methionine,0.834,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1217,Phenylalanine,1.294,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1219,Valine,1.66,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1220,Arginine,2.168,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1221,Histidine,1.195,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1272,PUFA 22:6 n-3 (DHA),0.007,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1278,PUFA 20:5 n-3 (EPA),0.004,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1316,"PUFA 18:2 n-6 c,c",0.598,G
+171140,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.026,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1003,Protein,3.25,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1004,Total lipid (fat),16.57,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1005,"Carbohydrate, by difference",4.68,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1008,Energy,178.0,KCAL
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1087,"Calcium, Ca",113.0,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1088,"Chlorine, Cl",0.0,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1089,"Iron, Fe",0.03,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1090,"Magnesium, Mg",10.0,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1091,"Phosphorus, P",87.0,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1092,"Potassium, K",162.0,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1093,"Sodium, Na",48.0,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1095,"Zinc, Zn",0.37,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1098,"Copper, Cu",0.01,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1100,"Iodine, I",0.0,UG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1101,"Manganese, Mn",0.002,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1103,"Selenium, Se",2.3,UG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1104,"Vitamin A, IU",10.0,IU
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1109,Vitamin E (alpha-tocopherol),1.34,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1165,Thiamin,0.038,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1166,Riboflavin,0.163,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1167,Niacin,0.074,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1170,Pantothenic acid,0.398,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1178,Vitamin B-12,0.33,UG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1180,"Choline, total",14.9,MG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1186,Folic acid,0.0,UG
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1210,Tryptophan,0.045,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1211,Threonine,0.147,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1212,Isoleucine,0.197,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1213,Leucine,0.318,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1214,Lysine,0.258,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1215,Methionine,0.082,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1217,Phenylalanine,0.157,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1219,Valine,0.217,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1220,Arginine,0.118,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1221,Histidine,0.088,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171259,"Sour dressing, non-butterfat, cultured, filled cream-type",1,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1003,Protein,9.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1004,Total lipid (fat),5.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1005,"Carbohydrate, by difference",3.98,G
+171304,"Yogurt, Greek, plain, whole milk",1,1008,Energy,97.0,KCAL
+171304,"Yogurt, Greek, plain, whole milk",1,1087,"Calcium, Ca",100.0,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1088,"Chlorine, Cl",0.0,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1089,"Iron, Fe",0.0,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1090,"Magnesium, Mg",11.0,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1091,"Phosphorus, P",135.0,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1092,"Potassium, K",141.0,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1093,"Sodium, Na",35.0,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1095,"Zinc, Zn",0.52,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1098,"Copper, Cu",0.017,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1100,"Iodine, I",0.0,UG
+171304,"Yogurt, Greek, plain, whole milk",1,1101,"Manganese, Mn",0.009,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1103,"Selenium, Se",9.7,UG
+171304,"Yogurt, Greek, plain, whole milk",1,1104,"Vitamin A, IU",15.0,IU
+171304,"Yogurt, Greek, plain, whole milk",1,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171304,"Yogurt, Greek, plain, whole milk",1,1109,Vitamin E (alpha-tocopherol),0.01,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1165,Thiamin,0.023,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1166,Riboflavin,0.278,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1167,Niacin,0.208,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1170,Pantothenic acid,0.331,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1178,Vitamin B-12,0.75,UG
+171304,"Yogurt, Greek, plain, whole milk",1,1180,"Choline, total",15.1,MG
+171304,"Yogurt, Greek, plain, whole milk",1,1186,Folic acid,0.0,UG
+171304,"Yogurt, Greek, plain, whole milk",1,1210,Tryptophan,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1211,Threonine,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1212,Isoleucine,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1213,Leucine,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1214,Lysine,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1215,Methionine,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1217,Phenylalanine,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1219,Valine,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1220,Arginine,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1221,Histidine,0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1272,PUFA 22:6 n-3 (DHA),0.004,G
+171304,"Yogurt, Greek, plain, whole milk",1,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171304,"Yogurt, Greek, plain, whole milk",1,1316,"PUFA 18:2 n-6 c,c",0.209,G
+171304,"Yogurt, Greek, plain, whole milk",1,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.023,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1003,Protein,28.71,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1004,Total lipid (fat),7.41,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1005,"Carbohydrate, by difference",0.0,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1008,Energy,189.0,KCAL
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1087,"Calcium, Ca",21.0,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1088,"Chlorine, Cl",0.0,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1089,"Iron, Fe",1.4,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1090,"Magnesium, Mg",27.0,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1091,"Phosphorus, P",210.0,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1092,"Potassium, K",288.0,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1093,"Sodium, Na",63.0,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1095,"Zinc, Zn",2.03,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1098,"Copper, Cu",0.047,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1100,"Iodine, I",0.0,UG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1101,"Manganese, Mn",0.02,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1103,"Selenium, Se",29.1,UG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1104,"Vitamin A, IU",0.0,IU
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1109,Vitamin E (alpha-tocopherol),0.0,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1165,Thiamin,0.057,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1166,Riboflavin,0.131,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1167,Niacin,6.365,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1170,Pantothenic acid,0.634,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1178,Vitamin B-12,0.36,UG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1180,"Choline, total",0.0,MG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1186,Folic acid,0.0,UG
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1210,Tryptophan,0.318,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1211,Threonine,1.257,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1212,Isoleucine,1.447,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1213,Leucine,2.24,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1214,Lysine,2.626,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1215,Methionine,0.811,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1217,Phenylalanine,1.126,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1219,Valine,1.5,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1220,Arginine,2.02,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1221,Histidine,0.868,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1272,PUFA 22:6 n-3 (DHA),0.03,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171492,"Turkey, all classes, breast, meat and skin, cooked, roasted",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1003,Protein,27.87,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1004,Total lipid (fat),9.82,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1005,"Carbohydrate, by difference",0.0,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1008,Energy,208.0,KCAL
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1087,"Calcium, Ca",32.0,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1088,"Chlorine, Cl",0.0,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1089,"Iron, Fe",2.3,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1090,"Magnesium, Mg",23.0,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1091,"Phosphorus, P",199.0,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1092,"Potassium, K",280.0,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1093,"Sodium, Na",77.0,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1095,"Zinc, Zn",4.27,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1098,"Copper, Cu",0.154,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1100,"Iodine, I",0.0,UG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1101,"Manganese, Mn",0.023,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1103,"Selenium, Se",37.8,UG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1104,"Vitamin A, IU",0.0,IU
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1110,"Vitamin D (D2 + D3), International Units",4.0,IU
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1109,Vitamin E (alpha-tocopherol),0.62,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1165,Thiamin,0.06,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1166,Riboflavin,0.241,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1167,Niacin,3.561,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1170,Pantothenic acid,1.205,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1178,Vitamin B-12,0.36,UG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1180,"Choline, total",70.8,MG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1186,Folic acid,0.0,UG
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1210,Tryptophan,0.311,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1211,Threonine,1.225,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1212,Isoleucine,1.417,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1213,Leucine,2.187,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1214,Lysine,2.571,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1215,Methionine,0.793,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1217,Phenylalanine,1.096,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1219,Valine,1.463,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1220,Arginine,1.956,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1221,Histidine,0.85,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1272,PUFA 22:6 n-3 (DHA),0.05,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171494,"Turkey, all classes, leg, meat and skin, cooked, roasted",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1003,Protein,27.6,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1004,Total lipid (fat),2.5,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1005,"Carbohydrate, by difference",0.0,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1008,Energy,140.0,KCAL
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1087,"Calcium, Ca",9.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1088,"Chlorine, Cl",0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1089,"Iron, Fe",4.49,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1090,"Magnesium, Mg",0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1091,"Phosphorus, P",0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1092,"Potassium, K",0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1093,"Sodium, Na",105.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1095,"Zinc, Zn",0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1098,"Copper, Cu",0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1100,"Iodine, I",0.0,UG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1101,"Manganese, Mn",0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1103,"Selenium, Se",29.0,UG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1104,"Vitamin A, IU",0.0,IU
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1109,Vitamin E (alpha-tocopherol),0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1165,Thiamin,0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1166,Riboflavin,0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1167,Niacin,10.35,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1170,Pantothenic acid,0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1178,Vitamin B-12,0.0,UG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1180,"Choline, total",0.0,MG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1186,Folic acid,0.0,UG
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1210,Tryptophan,0.38,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1211,Threonine,1.17,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1212,Isoleucine,1.404,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1213,Leucine,2.31,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1214,Lysine,2.34,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1215,Methionine,0.737,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1217,Phenylalanine,1.148,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1219,Valine,1.431,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1220,Arginine,1.744,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1221,Histidine,0.724,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171511,"Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1003,Protein,26.29,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1004,Total lipid (fat),6.8,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1005,"Carbohydrate, by difference",0.0,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1008,Energy,174.0,KCAL
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1087,"Calcium, Ca",7.0,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1088,"Chlorine, Cl",0.0,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1089,"Iron, Fe",2.83,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1090,"Magnesium, Mg",22.0,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1091,"Phosphorus, P",206.0,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1092,"Potassium, K",347.0,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1093,"Sodium, Na",65.0,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1095,"Zinc, Zn",6.43,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1098,"Copper, Cu",0.096,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1100,"Iodine, I",0.0,UG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1101,"Manganese, Mn",0.014,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1103,"Selenium, Se",21.5,UG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1104,"Vitamin A, IU",9.0,IU
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1110,"Vitamin D (D2 + D3), International Units",2.0,IU
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1109,Vitamin E (alpha-tocopherol),0.12,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1165,Thiamin,0.042,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1166,Riboflavin,0.176,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1167,Niacin,5.939,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1170,Pantothenic acid,0.658,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1178,Vitamin B-12,2.47,UG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1180,"Choline, total",85.4,MG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1186,Folic acid,0.0,UG
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1210,Tryptophan,0.133,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1211,Threonine,1.017,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1212,Isoleucine,1.162,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1213,Leucine,2.049,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1214,Lysine,2.176,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1215,Methionine,0.676,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1217,Phenylalanine,1.025,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1219,Valine,1.291,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1220,Arginine,1.71,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1221,Histidine,0.854,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171791,"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",13,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.042,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1003,Protein,25.55,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1004,Total lipid (fat),1.95,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1005,"Carbohydrate, by difference",5.13,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1008,Energy,148.0,KCAL
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1087,"Calcium, Ca",92.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1088,"Chlorine, Cl",0.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1089,"Iron, Fe",2.81,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1090,"Magnesium, Mg",18.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1091,"Phosphorus, P",338.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1092,"Potassium, K",628.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1093,"Sodium, Na",1202.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1095,"Zinc, Zn",2.73,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1098,"Copper, Cu",0.688,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1100,"Iodine, I",0.0,UG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1101,"Manganese, Mn",1.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1103,"Selenium, Se",64.0,UG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1104,"Vitamin A, IU",570.0,IU
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1165,Thiamin,0.15,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1166,Riboflavin,0.426,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1167,Niacin,3.354,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1170,Pantothenic acid,0.68,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1178,Vitamin B-12,98.89,UG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1180,"Choline, total",0.0,MG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1186,Folic acid,0.0,UG
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1210,Tryptophan,0.286,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1211,Threonine,1.099,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1212,Isoleucine,1.112,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1213,Leucine,1.798,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1214,Lysine,1.909,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1215,Methionine,0.576,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1217,Phenylalanine,0.915,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1219,Valine,1.116,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1220,Arginine,1.864,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1221,Histidine,0.49,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1272,PUFA 22:6 n-3 (DHA),0.146,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1278,PUFA 20:5 n-3 (EPA),0.138,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171975,"Mollusks, clam, mixed species, cooked, moist heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1003,Protein,24.18,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1004,Total lipid (fat),4.73,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1008,Energy,146.0,KCAL
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1087,"Calcium, Ca",103.0,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1089,"Iron, Fe",1.91,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1090,"Magnesium, Mg",38.0,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1091,"Phosphorus, P",256.0,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1092,"Potassium, K",456.0,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1093,"Sodium, Na",90.0,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1095,"Zinc, Zn",0.83,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1098,"Copper, Cu",0.119,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1101,"Manganese, Mn",1.14,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1103,"Selenium, Se",16.2,UG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1104,"Vitamin A, IU",115.0,IU
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1165,Thiamin,0.087,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1166,Riboflavin,0.09,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1167,Niacin,1.522,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1170,Pantothenic acid,0.865,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1178,Vitamin B-12,2.31,UG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1180,"Choline, total",0.0,MG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1186,Folic acid,0.0,UG
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1210,Tryptophan,0.271,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1211,Threonine,1.06,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1212,Isoleucine,1.114,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1213,Leucine,1.965,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1214,Lysine,2.221,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1215,Methionine,0.716,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1217,Phenylalanine,0.944,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1219,Valine,1.246,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1220,Arginine,1.447,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1221,Histidine,0.712,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),0.458,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.305,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171989,"Fish, bass, freshwater, mixed species, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1003,Protein,25.73,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1004,Total lipid (fat),10.12,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1008,Energy,201.0,KCAL
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1087,"Calcium, Ca",29.0,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1089,"Iron, Fe",1.49,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1090,"Magnesium, Mg",36.0,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1091,"Phosphorus, P",160.0,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1092,"Potassium, K",521.0,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1093,"Sodium, Na",110.0,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1095,"Zinc, Zn",0.86,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1098,"Copper, Cu",0.119,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1101,"Manganese, Mn",0.019,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1103,"Selenium, Se",46.8,UG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1104,"Vitamin A, IU",77.0,IU
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",457.0,IU
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),1.25,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1165,Thiamin,0.135,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1166,Riboflavin,0.54,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1167,Niacin,10.667,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1170,Pantothenic acid,0.365,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1178,Vitamin B-12,4.23,UG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1180,"Choline, total",83.6,MG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1186,Folic acid,0.0,UG
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1210,Tryptophan,0.288,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1211,Threonine,1.128,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1212,Isoleucine,1.186,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1213,Leucine,2.091,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1214,Lysine,2.363,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1215,Methionine,0.762,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1217,Phenylalanine,1.005,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1219,Valine,1.326,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1220,Arginine,1.54,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1221,Histidine,0.758,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),1.195,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.653,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171994,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1003,Protein,26.63,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1004,Total lipid (fat),8.47,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1008,Energy,190.0,KCAL
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1087,"Calcium, Ca",55.0,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1089,"Iron, Fe",1.92,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1090,"Magnesium, Mg",28.0,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1091,"Phosphorus, P",314.0,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1092,"Potassium, K",463.0,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1093,"Sodium, Na",67.0,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1095,"Zinc, Zn",0.85,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1098,"Copper, Cu",0.241,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1101,"Manganese, Mn",1.091,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1103,"Selenium, Se",16.2,UG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1104,"Vitamin A, IU",63.0,IU
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1165,Thiamin,0.426,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1166,Riboflavin,0.423,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1167,Niacin,5.769,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1170,Pantothenic acid,2.238,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1178,Vitamin B-12,7.49,UG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1180,"Choline, total",0.0,MG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1186,Folic acid,0.0,UG
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1210,Tryptophan,0.298,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1211,Threonine,1.167,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1212,Isoleucine,1.227,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1213,Leucine,2.164,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1214,Lysine,2.446,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1215,Methionine,0.788,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1217,Phenylalanine,1.04,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1219,Valine,1.372,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1220,Arginine,1.593,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1221,Histidine,0.784,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),0.677,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.259,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+172004,"Fish, trout, mixed species, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+172544,"Lamb, ground, cooked, broiled",17,1003,Protein,24.75,G
+172544,"Lamb, ground, cooked, broiled",17,1004,Total lipid (fat),19.65,G
+172544,"Lamb, ground, cooked, broiled",17,1005,"Carbohydrate, by difference",0.0,G
+172544,"Lamb, ground, cooked, broiled",17,1008,Energy,283.0,KCAL
+172544,"Lamb, ground, cooked, broiled",17,1087,"Calcium, Ca",22.0,MG
+172544,"Lamb, ground, cooked, broiled",17,1088,"Chlorine, Cl",0.0,MG
+172544,"Lamb, ground, cooked, broiled",17,1089,"Iron, Fe",1.79,MG
+172544,"Lamb, ground, cooked, broiled",17,1090,"Magnesium, Mg",24.0,MG
+172544,"Lamb, ground, cooked, broiled",17,1091,"Phosphorus, P",201.0,MG
+172544,"Lamb, ground, cooked, broiled",17,1092,"Potassium, K",339.0,MG
+172544,"Lamb, ground, cooked, broiled",17,1093,"Sodium, Na",81.0,MG
+172544,"Lamb, ground, cooked, broiled",17,1095,"Zinc, Zn",4.67,MG
+172544,"Lamb, ground, cooked, broiled",17,1098,"Copper, Cu",0.128,MG
+172544,"Lamb, ground, cooked, broiled",17,1100,"Iodine, I",0.0,UG
+172544,"Lamb, ground, cooked, broiled",17,1101,"Manganese, Mn",0.024,MG
+172544,"Lamb, ground, cooked, broiled",17,1103,"Selenium, Se",27.7,UG
+172544,"Lamb, ground, cooked, broiled",17,1104,"Vitamin A, IU",0.0,IU
+172544,"Lamb, ground, cooked, broiled",17,1110,"Vitamin D (D2 + D3), International Units",2.0,IU
+172544,"Lamb, ground, cooked, broiled",17,1109,Vitamin E (alpha-tocopherol),0.14,MG
+172544,"Lamb, ground, cooked, broiled",17,1165,Thiamin,0.1,MG
+172544,"Lamb, ground, cooked, broiled",17,1166,Riboflavin,0.25,MG
+172544,"Lamb, ground, cooked, broiled",17,1167,Niacin,6.7,MG
+172544,"Lamb, ground, cooked, broiled",17,1170,Pantothenic acid,0.66,MG
+172544,"Lamb, ground, cooked, broiled",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+172544,"Lamb, ground, cooked, broiled",17,1178,Vitamin B-12,2.61,UG
+172544,"Lamb, ground, cooked, broiled",17,1180,"Choline, total",93.4,MG
+172544,"Lamb, ground, cooked, broiled",17,1186,Folic acid,0.0,UG
+172544,"Lamb, ground, cooked, broiled",17,1210,Tryptophan,0.289,G
+172544,"Lamb, ground, cooked, broiled",17,1211,Threonine,1.059,G
+172544,"Lamb, ground, cooked, broiled",17,1212,Isoleucine,1.194,G
+172544,"Lamb, ground, cooked, broiled",17,1213,Leucine,1.925,G
+172544,"Lamb, ground, cooked, broiled",17,1214,Lysine,2.186,G
+172544,"Lamb, ground, cooked, broiled",17,1215,Methionine,0.635,G
+172544,"Lamb, ground, cooked, broiled",17,1217,Phenylalanine,1.008,G
+172544,"Lamb, ground, cooked, broiled",17,1219,Valine,1.335,G
+172544,"Lamb, ground, cooked, broiled",17,1220,Arginine,1.47,G
+172544,"Lamb, ground, cooked, broiled",17,1221,Histidine,0.784,G
+172544,"Lamb, ground, cooked, broiled",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+172544,"Lamb, ground, cooked, broiled",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+172544,"Lamb, ground, cooked, broiled",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+172544,"Lamb, ground, cooked, broiled",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+172544,"Lamb, ground, cooked, broiled",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+172544,"Lamb, ground, cooked, broiled",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1003,Protein,26.45,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1004,Total lipid (fat),8.22,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1005,"Carbohydrate, by difference",0.0,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1008,Energy,187.0,KCAL
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1087,"Calcium, Ca",14.0,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1088,"Chlorine, Cl",0.0,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1089,"Iron, Fe",3.35,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1090,"Magnesium, Mg",24.0,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1091,"Phosphorus, P",228.0,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1092,"Potassium, K",364.0,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1093,"Sodium, Na",78.0,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1095,"Zinc, Zn",5.2,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1098,"Copper, Cu",0.1,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1100,"Iodine, I",0.0,UG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1101,"Manganese, Mn",0.013,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1103,"Selenium, Se",10.3,UG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1104,"Vitamin A, IU",0.0,IU
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1109,Vitamin E (alpha-tocopherol),0.68,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1165,Thiamin,0.503,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1166,Riboflavin,0.327,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1167,Niacin,9.257,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1170,Pantothenic acid,0.76,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1178,Vitamin B-12,2.32,UG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1180,"Choline, total",101.9,MG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1186,Folic acid,0.0,UG
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1210,Tryptophan,0.234,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1211,Threonine,0.998,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1212,Isoleucine,1.133,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1213,Leucine,2.008,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1214,Lysine,2.143,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1215,Methionine,0.616,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1217,Phenylalanine,0.998,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1219,Valine,1.281,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1220,Arginine,1.576,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1221,Histidine,0.788,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+172603,"Game meat, deer, ground, cooked, pan-broiled",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1003,Protein,22.6,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1004,Total lipid (fat),11.34,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1005,"Carbohydrate, by difference",0.0,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1008,Energy,192.0,KCAL
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1087,"Calcium, Ca",4.0,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1088,"Chlorine, Cl",0.0,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1089,"Iron, Fe",1.27,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1090,"Magnesium, Mg",15.0,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1091,"Phosphorus, P",122.0,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1092,"Potassium, K",162.0,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1093,"Sodium, Na",34.0,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1095,"Zinc, Zn",3.38,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1098,"Copper, Cu",0.1,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1100,"Iodine, I",0.0,UG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1101,"Manganese, Mn",0.002,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1103,"Selenium, Se",6.8,UG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1104,"Vitamin A, IU",27.0,IU
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1110,"Vitamin D (D2 + D3), International Units",2.0,IU
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1109,Vitamin E (alpha-tocopherol),0.4,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1165,Thiamin,0.02,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1166,Riboflavin,0.153,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1167,Niacin,3.308,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1170,Pantothenic acid,0.101,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1178,Vitamin B-12,0.96,UG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1180,"Choline, total",0.0,MG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1186,Folic acid,0.0,UG
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1210,Tryptophan,0.25,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1211,Threonine,1.078,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1212,Isoleucine,1.012,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1213,Leucine,1.745,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1214,Lysine,1.973,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1215,Methionine,0.737,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1217,Phenylalanine,0.89,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1219,Valine,1.151,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1220,Arginine,1.521,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1221,Histidine,0.479,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1278,PUFA 20:5 n-3 (EPA),0.024,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1316,"PUFA 18:2 n-6 c,c",0.149,G
+172616,"Lamb, New Zealand, imported, ground lamb, cooked, braised",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.136,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1003,Protein,24.55,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1004,Total lipid (fat),8.63,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1005,"Carbohydrate, by difference",0.0,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1008,Energy,176.0,KCAL
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1087,"Calcium, Ca",12.0,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1088,"Chlorine, Cl",0.0,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1089,"Iron, Fe",1.27,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1090,"Magnesium, Mg",25.0,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1091,"Phosphorus, P",201.0,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1092,"Potassium, K",266.0,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1093,"Sodium, Na",77.0,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1095,"Zinc, Zn",1.87,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1098,"Copper, Cu",0.049,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1100,"Iodine, I",0.0,UG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1101,"Manganese, Mn",0.017,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1103,"Selenium, Se",29.2,UG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1104,"Vitamin A, IU",27.0,IU
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1110,"Vitamin D (D2 + D3), International Units",13.0,IU
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1109,Vitamin E (alpha-tocopherol),0.17,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1165,Thiamin,0.087,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1166,Riboflavin,0.182,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1167,Niacin,5.742,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1170,Pantothenic acid,1.2,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1178,Vitamin B-12,0.42,UG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1180,"Choline, total",68.3,MG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1186,Folic acid,0.0,UG
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1210,Tryptophan,0.225,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1211,Threonine,1.034,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1212,Isoleucine,1.013,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1213,Leucine,1.845,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1214,Lysine,2.012,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1215,Methionine,0.606,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1217,Phenylalanine,0.903,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1219,Valine,1.087,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1220,Arginine,1.725,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1221,Histidine,0.656,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1272,PUFA 22:6 n-3 (DHA),0.004,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1278,PUFA 20:5 n-3 (EPA),0.009,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1316,"PUFA 18:2 n-6 c,c",1.319,G
+172853,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.051,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1003,Protein,24.86,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1004,Total lipid (fat),1.18,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1008,Energy,117.0,KCAL
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1087,"Calcium, Ca",102.0,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1089,"Iron, Fe",1.16,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1090,"Magnesium, Mg",38.0,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1091,"Phosphorus, P",257.0,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1092,"Potassium, K",344.0,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1093,"Sodium, Na",79.0,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1095,"Zinc, Zn",1.43,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1098,"Copper, Cu",0.192,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1101,"Manganese, Mn",0.9,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1103,"Selenium, Se",16.1,UG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1104,"Vitamin A, IU",32.0,IU
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1165,Thiamin,0.08,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1166,Riboflavin,0.12,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1167,Niacin,1.9,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1170,Pantothenic acid,0.87,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1178,Vitamin B-12,2.2,UG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1180,"Choline, total",0.0,MG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1186,Folic acid,0.0,UG
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1210,Tryptophan,0.278,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1211,Threonine,1.09,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1212,Isoleucine,1.145,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1213,Leucine,2.02,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1214,Lysine,2.283,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1215,Methionine,0.736,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1217,Phenylalanine,0.97,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1219,Valine,1.281,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1220,Arginine,1.487,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1221,Histidine,0.732,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),0.223,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.101,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+173679,"Fish, perch, mixed species, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1003,Protein,29.91,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1004,Total lipid (fat),6.28,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1008,Energy,184.0,KCAL
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1087,"Calcium, Ca",10.0,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1089,"Iron, Fe",1.31,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1090,"Magnesium, Mg",64.0,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1091,"Phosphorus, P",326.0,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1092,"Potassium, K",323.0,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1093,"Sodium, Na",50.0,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1095,"Zinc, Zn",0.77,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1098,"Copper, Cu",0.11,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1101,"Manganese, Mn",0.02,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1103,"Selenium, Se",46.8,UG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1104,"Vitamin A, IU",2520.0,IU
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1165,Thiamin,0.278,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1166,Riboflavin,0.306,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1167,Niacin,10.54,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1170,Pantothenic acid,1.37,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1178,Vitamin B-12,10.88,UG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1180,"Choline, total",0.0,MG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1186,Folic acid,0.0,UG
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1210,Tryptophan,0.335,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1211,Threonine,1.311,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1212,Isoleucine,1.378,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1213,Leucine,2.431,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1214,Lysine,2.747,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1215,Methionine,0.885,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1217,Phenylalanine,1.168,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1219,Valine,1.541,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1220,Arginine,1.79,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1221,Histidine,0.88,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),1.141,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.363,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+173707,"Fish, tuna, fresh, bluefin, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+173844,"Game meat, antelope, cooked, roasted",17,1003,Protein,29.45,G
+173844,"Game meat, antelope, cooked, roasted",17,1004,Total lipid (fat),2.67,G
+173844,"Game meat, antelope, cooked, roasted",17,1005,"Carbohydrate, by difference",0.0,G
+173844,"Game meat, antelope, cooked, roasted",17,1008,Energy,150.0,KCAL
+173844,"Game meat, antelope, cooked, roasted",17,1087,"Calcium, Ca",4.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1088,"Chlorine, Cl",0.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1089,"Iron, Fe",4.2,MG
+173844,"Game meat, antelope, cooked, roasted",17,1090,"Magnesium, Mg",28.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1091,"Phosphorus, P",210.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1092,"Potassium, K",372.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1093,"Sodium, Na",54.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1095,"Zinc, Zn",1.68,MG
+173844,"Game meat, antelope, cooked, roasted",17,1098,"Copper, Cu",0.213,MG
+173844,"Game meat, antelope, cooked, roasted",17,1100,"Iodine, I",0.0,UG
+173844,"Game meat, antelope, cooked, roasted",17,1101,"Manganese, Mn",0.022,MG
+173844,"Game meat, antelope, cooked, roasted",17,1103,"Selenium, Se",12.9,UG
+173844,"Game meat, antelope, cooked, roasted",17,1104,"Vitamin A, IU",0.0,IU
+173844,"Game meat, antelope, cooked, roasted",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+173844,"Game meat, antelope, cooked, roasted",17,1109,Vitamin E (alpha-tocopherol),0.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1165,Thiamin,0.26,MG
+173844,"Game meat, antelope, cooked, roasted",17,1166,Riboflavin,0.73,MG
+173844,"Game meat, antelope, cooked, roasted",17,1167,Niacin,0.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1170,Pantothenic acid,0.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1178,Vitamin B-12,0.0,UG
+173844,"Game meat, antelope, cooked, roasted",17,1180,"Choline, total",0.0,MG
+173844,"Game meat, antelope, cooked, roasted",17,1186,Folic acid,0.0,UG
+173844,"Game meat, antelope, cooked, roasted",17,1210,Tryptophan,0.0,G
+173844,"Game meat, antelope, cooked, roasted",17,1211,Threonine,1.362,G
+173844,"Game meat, antelope, cooked, roasted",17,1212,Isoleucine,1.126,G
+173844,"Game meat, antelope, cooked, roasted",17,1213,Leucine,2.489,G
+173844,"Game meat, antelope, cooked, roasted",17,1214,Lysine,2.462,G
+173844,"Game meat, antelope, cooked, roasted",17,1215,Methionine,0.838,G
+173844,"Game meat, antelope, cooked, roasted",17,1217,Phenylalanine,1.166,G
+173844,"Game meat, antelope, cooked, roasted",17,1219,Valine,1.31,G
+173844,"Game meat, antelope, cooked, roasted",17,1220,Arginine,1.938,G
+173844,"Game meat, antelope, cooked, roasted",17,1221,Histidine,1.401,G
+173844,"Game meat, antelope, cooked, roasted",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+173844,"Game meat, antelope, cooked, roasted",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+173844,"Game meat, antelope, cooked, roasted",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+173844,"Game meat, antelope, cooked, roasted",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+173844,"Game meat, antelope, cooked, roasted",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+173844,"Game meat, antelope, cooked, roasted",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+173847,"Bison, ground, grass-fed, cooked",17,1003,Protein,25.45,G
+173847,"Bison, ground, grass-fed, cooked",17,1004,Total lipid (fat),8.62,G
+173847,"Bison, ground, grass-fed, cooked",17,1005,"Carbohydrate, by difference",0.0,G
+173847,"Bison, ground, grass-fed, cooked",17,1008,Energy,179.0,KCAL
+173847,"Bison, ground, grass-fed, cooked",17,1087,"Calcium, Ca",14.0,MG
+173847,"Bison, ground, grass-fed, cooked",17,1088,"Chlorine, Cl",0.0,MG
+173847,"Bison, ground, grass-fed, cooked",17,1089,"Iron, Fe",3.19,MG
+173847,"Bison, ground, grass-fed, cooked",17,1090,"Magnesium, Mg",23.0,MG
+173847,"Bison, ground, grass-fed, cooked",17,1091,"Phosphorus, P",213.0,MG
+173847,"Bison, ground, grass-fed, cooked",17,1092,"Potassium, K",353.0,MG
+173847,"Bison, ground, grass-fed, cooked",17,1093,"Sodium, Na",76.0,MG
+173847,"Bison, ground, grass-fed, cooked",17,1095,"Zinc, Zn",5.34,MG
+173847,"Bison, ground, grass-fed, cooked",17,1098,"Copper, Cu",0.151,MG
+173847,"Bison, ground, grass-fed, cooked",17,1100,"Iodine, I",0.0,UG
+173847,"Bison, ground, grass-fed, cooked",17,1101,"Manganese, Mn",0.0,MG
+173847,"Bison, ground, grass-fed, cooked",17,1103,"Selenium, Se",31.1,UG
+173847,"Bison, ground, grass-fed, cooked",17,1104,"Vitamin A, IU",0.0,IU
+173847,"Bison, ground, grass-fed, cooked",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+173847,"Bison, ground, grass-fed, cooked",17,1109,Vitamin E (alpha-tocopherol),0.2,MG
+173847,"Bison, ground, grass-fed, cooked",17,1165,Thiamin,0.139,MG
+173847,"Bison, ground, grass-fed, cooked",17,1166,Riboflavin,0.264,MG
+173847,"Bison, ground, grass-fed, cooked",17,1167,Niacin,5.966,MG
+173847,"Bison, ground, grass-fed, cooked",17,1170,Pantothenic acid,0.0,MG
+173847,"Bison, ground, grass-fed, cooked",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+173847,"Bison, ground, grass-fed, cooked",17,1178,Vitamin B-12,2.44,UG
+173847,"Bison, ground, grass-fed, cooked",17,1180,"Choline, total",97.2,MG
+173847,"Bison, ground, grass-fed, cooked",17,1186,Folic acid,0.0,UG
+173847,"Bison, ground, grass-fed, cooked",17,1210,Tryptophan,0.192,G
+173847,"Bison, ground, grass-fed, cooked",17,1211,Threonine,1.155,G
+173847,"Bison, ground, grass-fed, cooked",17,1212,Isoleucine,1.229,G
+173847,"Bison, ground, grass-fed, cooked",17,1213,Leucine,2.184,G
+173847,"Bison, ground, grass-fed, cooked",17,1214,Lysine,2.362,G
+173847,"Bison, ground, grass-fed, cooked",17,1215,Methionine,0.688,G
+173847,"Bison, ground, grass-fed, cooked",17,1217,Phenylalanine,1.081,G
+173847,"Bison, ground, grass-fed, cooked",17,1219,Valine,1.37,G
+173847,"Bison, ground, grass-fed, cooked",17,1220,Arginine,1.733,G
+173847,"Bison, ground, grass-fed, cooked",17,1221,Histidine,0.933,G
+173847,"Bison, ground, grass-fed, cooked",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+173847,"Bison, ground, grass-fed, cooked",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+173847,"Bison, ground, grass-fed, cooked",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+173847,"Bison, ground, grass-fed, cooked",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+173847,"Bison, ground, grass-fed, cooked",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+173847,"Bison, ground, grass-fed, cooked",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1003,Protein,25.93,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1004,Total lipid (fat),15.41,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1005,"Carbohydrate, by difference",0.0,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1008,Energy,250.0,KCAL
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1087,"Calcium, Ca",18.0,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1088,"Chlorine, Cl",0.0,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1089,"Iron, Fe",2.6,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1090,"Magnesium, Mg",21.0,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1091,"Phosphorus, P",198.0,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1092,"Potassium, K",318.0,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1093,"Sodium, Na",72.0,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1095,"Zinc, Zn",6.31,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1098,"Copper, Cu",0.085,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1100,"Iodine, I",0.0,UG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1101,"Manganese, Mn",0.012,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1103,"Selenium, Se",21.5,UG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1104,"Vitamin A, IU",9.0,IU
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1110,"Vitamin D (D2 + D3), International Units",2.0,IU
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1109,Vitamin E (alpha-tocopherol),0.12,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1165,Thiamin,0.046,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1166,Riboflavin,0.176,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1167,Niacin,5.378,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1170,Pantothenic acid,0.658,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1178,Vitamin B-12,2.64,UG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1180,"Choline, total",82.4,MG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1186,Folic acid,0.0,UG
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1210,Tryptophan,0.094,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1211,Threonine,0.72,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1212,Isoleucine,0.822,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1213,Leucine,1.45,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1214,Lysine,1.54,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1215,Methionine,0.478,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1217,Phenylalanine,0.725,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1219,Valine,0.914,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1220,Arginine,1.21,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1221,Histidine,0.604,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1272,PUFA 22:6 n-3 (DHA),0.001,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1278,PUFA 20:5 n-3 (EPA),0.003,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",13,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.044,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1003,Protein,22.54,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1004,Total lipid (fat),1.61,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1008,Energy,111.0,KCAL
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1087,"Calcium, Ca",9.0,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1089,"Iron, Fe",0.2,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1090,"Magnesium, Mg",28.0,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1091,"Phosphorus, P",287.0,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1092,"Potassium, K",528.0,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1093,"Sodium, Na",82.0,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1095,"Zinc, Zn",0.43,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1098,"Copper, Cu",0.028,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1101,"Manganese, Mn",0.013,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1103,"Selenium, Se",55.4,UG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1104,"Vitamin A, IU",73.0,IU
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",231.0,IU
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),0.74,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1165,Thiamin,0.058,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1166,Riboflavin,0.036,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1167,Niacin,7.911,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1170,Pantothenic acid,0.416,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1178,Vitamin B-12,1.27,UG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1180,"Choline, total",75.1,MG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1186,Folic acid,0.0,UG
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1210,Tryptophan,0.283,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1211,Threonine,1.108,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1212,Isoleucine,1.165,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1213,Leucine,2.055,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1214,Lysine,2.321,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1215,Methionine,0.748,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1217,Phenylalanine,0.988,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1219,Valine,1.302,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1220,Arginine,1.512,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1221,Histidine,0.745,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),0.155,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.08,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174201,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1003,Protein,23.8,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1004,Total lipid (fat),4.48,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1005,"Carbohydrate, by difference",7.39,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1008,Energy,172.0,KCAL
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1087,"Calcium, Ca",33.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1088,"Chlorine, Cl",0.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1089,"Iron, Fe",6.72,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1090,"Magnesium, Mg",37.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1091,"Phosphorus, P",285.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1092,"Potassium, K",268.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1093,"Sodium, Na",369.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1095,"Zinc, Zn",2.67,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1098,"Copper, Cu",0.149,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1100,"Iodine, I",0.0,UG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1101,"Manganese, Mn",6.8,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1103,"Selenium, Se",89.6,UG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1104,"Vitamin A, IU",304.0,IU
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1165,Thiamin,0.3,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1166,Riboflavin,0.42,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1167,Niacin,3.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1170,Pantothenic acid,0.95,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1178,Vitamin B-12,24.0,UG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1180,"Choline, total",0.0,MG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1186,Folic acid,0.0,UG
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1210,Tryptophan,0.267,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1211,Threonine,1.025,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1212,Isoleucine,1.036,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1213,Leucine,1.676,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1214,Lysine,1.779,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1215,Methionine,0.537,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1217,Phenylalanine,0.853,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1219,Valine,1.04,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1220,Arginine,1.737,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1221,Histidine,0.457,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1272,PUFA 22:6 n-3 (DHA),0.506,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1278,PUFA 20:5 n-3 (EPA),0.276,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174217,"Mollusks, mussel, blue, cooked, moist heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174235,"Fish, lingcod, cooked, dry heat",15,1003,Protein,22.64,G
+174235,"Fish, lingcod, cooked, dry heat",15,1004,Total lipid (fat),1.36,G
+174235,"Fish, lingcod, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+174235,"Fish, lingcod, cooked, dry heat",15,1008,Energy,109.0,KCAL
+174235,"Fish, lingcod, cooked, dry heat",15,1087,"Calcium, Ca",18.0,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1089,"Iron, Fe",0.41,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1090,"Magnesium, Mg",33.0,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1091,"Phosphorus, P",258.0,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1092,"Potassium, K",560.0,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1093,"Sodium, Na",76.0,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1095,"Zinc, Zn",0.58,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1098,"Copper, Cu",0.035,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+174235,"Fish, lingcod, cooked, dry heat",15,1101,"Manganese, Mn",0.026,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1103,"Selenium, Se",46.8,UG
+174235,"Fish, lingcod, cooked, dry heat",15,1104,"Vitamin A, IU",58.0,IU
+174235,"Fish, lingcod, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+174235,"Fish, lingcod, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1165,Thiamin,0.035,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1166,Riboflavin,0.139,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1167,Niacin,2.314,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1170,Pantothenic acid,0.865,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1178,Vitamin B-12,4.15,UG
+174235,"Fish, lingcod, cooked, dry heat",15,1180,"Choline, total",0.0,MG
+174235,"Fish, lingcod, cooked, dry heat",15,1186,Folic acid,0.0,UG
+174235,"Fish, lingcod, cooked, dry heat",15,1210,Tryptophan,0.254,G
+174235,"Fish, lingcod, cooked, dry heat",15,1211,Threonine,0.993,G
+174235,"Fish, lingcod, cooked, dry heat",15,1212,Isoleucine,1.043,G
+174235,"Fish, lingcod, cooked, dry heat",15,1213,Leucine,1.84,G
+174235,"Fish, lingcod, cooked, dry heat",15,1214,Lysine,2.079,G
+174235,"Fish, lingcod, cooked, dry heat",15,1215,Methionine,0.67,G
+174235,"Fish, lingcod, cooked, dry heat",15,1217,Phenylalanine,0.884,G
+174235,"Fish, lingcod, cooked, dry heat",15,1219,Valine,1.166,G
+174235,"Fish, lingcod, cooked, dry heat",15,1220,Arginine,1.355,G
+174235,"Fish, lingcod, cooked, dry heat",15,1221,Histidine,0.667,G
+174235,"Fish, lingcod, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174235,"Fish, lingcod, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174235,"Fish, lingcod, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),0.13,G
+174235,"Fish, lingcod, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.133,G
+174235,"Fish, lingcod, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174235,"Fish, lingcod, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1003,Protein,21.33,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1004,Total lipid (fat),1.17,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1008,Energy,102.0,KCAL
+174238,"Fish, pout, ocean, cooked, dry heat",15,1087,"Calcium, Ca",13.0,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1089,"Iron, Fe",0.36,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1090,"Magnesium, Mg",17.0,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1091,"Phosphorus, P",256.0,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1092,"Potassium, K",513.0,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1093,"Sodium, Na",78.0,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1095,"Zinc, Zn",1.32,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1098,"Copper, Cu",0.041,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1101,"Manganese, Mn",0.019,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1103,"Selenium, Se",46.8,UG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1104,"Vitamin A, IU",46.0,IU
+174238,"Fish, pout, ocean, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+174238,"Fish, pout, ocean, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1165,Thiamin,0.092,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1166,Riboflavin,0.073,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1167,Niacin,2.558,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1170,Pantothenic acid,0.173,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1178,Vitamin B-12,1.04,UG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1180,"Choline, total",0.0,MG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1186,Folic acid,0.0,UG
+174238,"Fish, pout, ocean, cooked, dry heat",15,1210,Tryptophan,0.239,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1211,Threonine,0.935,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1212,Isoleucine,0.983,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1213,Leucine,1.734,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1214,Lysine,1.959,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1215,Methionine,0.631,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1217,Phenylalanine,0.833,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1219,Valine,1.099,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1220,Arginine,1.277,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1221,Histidine,0.628,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),0.0,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.0,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174238,"Fish, pout, ocean, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1003,Protein,24.47,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1004,Total lipid (fat),7.51,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1008,Energy,172.0,KCAL
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1087,"Calcium, Ca",33.0,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1089,"Iron, Fe",0.47,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1090,"Magnesium, Mg",42.0,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1091,"Phosphorus, P",346.0,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1092,"Potassium, K",406.0,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1093,"Sodium, Na",65.0,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1095,"Zinc, Zn",1.27,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1098,"Copper, Cu",0.092,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1101,"Manganese, Mn",0.086,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1103,"Selenium, Se",16.2,UG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1104,"Vitamin A, IU",131.0,IU
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1165,Thiamin,0.171,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1166,Riboflavin,0.154,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1167,Niacin,3.846,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1170,Pantothenic acid,0.865,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1178,Vitamin B-12,0.96,UG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1180,"Choline, total",0.0,MG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1186,Folic acid,0.0,UG
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1210,Tryptophan,0.274,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1211,Threonine,1.073,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1212,Isoleucine,1.128,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1213,Leucine,1.989,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1214,Lysine,2.248,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1215,Methionine,0.724,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1217,Phenylalanine,0.955,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1219,Valine,1.261,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1220,Arginine,1.465,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1221,Histidine,0.721,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),1.206,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.406,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174246,"Fish, whitefish, mixed species, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1003,Protein,30.38,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1004,Total lipid (fat),8.41,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1005,"Carbohydrate, by difference",0.0,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1008,Energy,206.0,KCAL
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1087,"Calcium, Ca",20.0,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1088,"Chlorine, Cl",0.0,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1089,"Iron, Fe",2.37,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1090,"Magnesium, Mg",20.0,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1091,"Phosphorus, P",226.0,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1092,"Potassium, K",300.0,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1093,"Sodium, Na",37.0,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1095,"Zinc, Zn",2.37,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1098,"Copper, Cu",0.176,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1100,"Iodine, I",0.0,UG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1101,"Manganese, Mn",0.032,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1103,"Selenium, Se",38.5,UG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1104,"Vitamin A, IU",0.0,IU
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1109,Vitamin E (alpha-tocopherol),0.44,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1165,Thiamin,0.06,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1166,Riboflavin,0.17,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1167,Niacin,7.16,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1170,Pantothenic acid,0.67,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1178,Vitamin B-12,6.51,UG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1180,"Choline, total",121.2,MG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1186,Folic acid,0.0,UG
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1210,Tryptophan,0.401,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1211,Threonine,1.359,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1212,Isoleucine,1.441,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1213,Leucine,2.367,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1214,Lysine,2.66,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1215,Methionine,0.76,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1217,Phenylalanine,1.247,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1219,Valine,1.544,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1220,Arginine,1.877,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1221,Histidine,0.852,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174346,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1003,Protein,26.71,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1004,Total lipid (fat),9.63,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1005,"Carbohydrate, by difference",0.0,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1008,Energy,201.0,KCAL
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1087,"Calcium, Ca",16.0,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1088,"Chlorine, Cl",0.0,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1089,"Iron, Fe",2.05,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1090,"Magnesium, Mg",24.0,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1091,"Phosphorus, P",207.0,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1092,"Potassium, K",318.0,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1093,"Sodium, Na",80.0,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1095,"Zinc, Zn",5.14,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1098,"Copper, Cu",0.153,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1100,"Iodine, I",0.0,UG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1101,"Manganese, Mn",0.014,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1103,"Selenium, Se",11.0,UG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1104,"Vitamin A, IU",0.0,IU
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1109,Vitamin E (alpha-tocopherol),0.0,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1165,Thiamin,0.131,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1166,Riboflavin,0.36,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1167,Niacin,5.812,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1170,Pantothenic acid,0.876,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1178,Vitamin B-12,3.01,UG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1180,"Choline, total",0.0,MG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1186,Folic acid,0.0,UG
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1210,Tryptophan,0.312,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1211,Threonine,1.141,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1212,Isoleucine,1.291,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1213,Leucine,2.077,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1214,Lysine,2.359,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1215,Methionine,0.684,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1217,Phenylalanine,1.086,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1219,Valine,1.44,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1220,Arginine,1.586,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1221,Histidine,0.846,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174400,"Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8"" fat, cooked",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1003,Protein,23.77,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1004,Total lipid (fat),15.13,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1005,"Carbohydrate, by difference",0.0,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1008,Energy,238.0,KCAL
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1087,"Calcium, Ca",13.0,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1088,"Chlorine, Cl",0.0,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1089,"Iron, Fe",3.08,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1090,"Magnesium, Mg",22.0,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1091,"Phosphorus, P",205.0,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1092,"Potassium, K",341.0,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1093,"Sodium, Na",73.0,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1095,"Zinc, Zn",5.14,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1098,"Copper, Cu",0.146,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1100,"Iodine, I",0.0,UG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1101,"Manganese, Mn",0.01,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1103,"Selenium, Se",30.0,UG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1104,"Vitamin A, IU",0.0,IU
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1109,Vitamin E (alpha-tocopherol),0.24,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1165,Thiamin,0.13,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1166,Riboflavin,0.247,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1167,Niacin,5.57,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1170,Pantothenic acid,1.14,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1178,Vitamin B-12,2.28,UG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1180,"Choline, total",0.0,MG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1186,Folic acid,0.0,UG
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1210,Tryptophan,0.18,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1211,Threonine,1.078,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1212,Isoleucine,1.147,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1213,Leucine,2.039,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1214,Lysine,2.205,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1215,Methionine,0.643,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1217,Phenylalanine,1.009,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1219,Valine,1.279,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1220,Arginine,1.618,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1221,Histidine,0.871,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174422,"Game meat, bison, ground, cooked, pan-broiled",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1003,Protein,26.64,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1004,Total lipid (fat),8.74,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1005,"Carbohydrate, by difference",0.0,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1008,Energy,193.0,KCAL
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1087,"Calcium, Ca",10.0,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1088,"Chlorine, Cl",0.0,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1089,"Iron, Fe",3.34,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1090,"Magnesium, Mg",24.0,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1091,"Phosphorus, P",221.0,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1092,"Potassium, K",354.0,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1093,"Sodium, Na",85.0,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1095,"Zinc, Zn",6.56,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1098,"Copper, Cu",0.142,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1100,"Iodine, I",0.0,UG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1101,"Manganese, Mn",0.011,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1103,"Selenium, Se",9.0,UG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1104,"Vitamin A, IU",0.0,IU
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1109,Vitamin E (alpha-tocopherol),0.57,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1165,Thiamin,0.125,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1166,Riboflavin,0.32,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1167,Niacin,5.32,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1170,Pantothenic acid,1.05,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1178,Vitamin B-12,2.57,UG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1180,"Choline, total",0.0,MG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1186,Folic acid,0.0,UG
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1210,Tryptophan,0.238,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1211,Threonine,1.07,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1212,Isoleucine,1.118,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1213,Leucine,1.986,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1214,Lysine,2.176,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1215,Methionine,0.654,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1217,Phenylalanine,0.975,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1219,Valine,1.237,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1220,Arginine,1.594,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1221,Histidine,0.821,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+174426,"Game meat, elk, ground, cooked, pan-broiled",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1003,Protein,25.11,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1004,Total lipid (fat),17.45,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1005,"Carbohydrate, by difference",0.0,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1008,Energy,258.0,KCAL
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1087,"Calcium, Ca",49.0,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1088,"Chlorine, Cl",0.0,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1089,"Iron, Fe",1.98,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1090,"Magnesium, Mg",28.0,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1091,"Phosphorus, P",263.0,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1092,"Potassium, K",276.0,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1093,"Sodium, Na",85.0,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1095,"Zinc, Zn",3.56,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1098,"Copper, Cu",0.194,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1100,"Iodine, I",0.0,UG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1101,"Manganese, Mn",0.015,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1103,"Selenium, Se",36.1,UG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1104,"Vitamin A, IU",117.0,IU
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1110,"Vitamin D (D2 + D3), International Units",8.0,IU
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1109,Vitamin E (alpha-tocopherol),0.09,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1165,Thiamin,0.08,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1166,Riboflavin,0.26,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1167,Niacin,7.72,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1170,Pantothenic acid,1.4,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1178,Vitamin B-12,1.6,UG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1180,"Choline, total",76.7,MG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1186,Folic acid,0.0,UG
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1210,Tryptophan,0.286,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1211,Threonine,1.154,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1212,Isoleucine,1.126,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1213,Leucine,2.076,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1214,Lysine,2.25,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1215,Methionine,0.74,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1217,Phenylalanine,0.98,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1219,Valine,1.166,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1220,Arginine,1.826,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1221,Histidine,0.745,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1272,PUFA 22:6 n-3 (DHA),0.01,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1278,PUFA 20:5 n-3 (EPA),0.02,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1316,"PUFA 18:2 n-6 c,c",4.054,G
+174494,"Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles",5,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.214,G
+174879,"Veal, ground, cooked, pan-fried",17,1003,Protein,25.83,G
+174879,"Veal, ground, cooked, pan-fried",17,1004,Total lipid (fat),11.78,G
+174879,"Veal, ground, cooked, pan-fried",17,1005,"Carbohydrate, by difference",1.51,G
+174879,"Veal, ground, cooked, pan-fried",17,1008,Energy,215.0,KCAL
+174879,"Veal, ground, cooked, pan-fried",17,1087,"Calcium, Ca",18.0,MG
+174879,"Veal, ground, cooked, pan-fried",17,1088,"Chlorine, Cl",0.0,MG
+174879,"Veal, ground, cooked, pan-fried",17,1089,"Iron, Fe",1.5,MG
+174879,"Veal, ground, cooked, pan-fried",17,1090,"Magnesium, Mg",34.0,MG
+174879,"Veal, ground, cooked, pan-fried",17,1091,"Phosphorus, P",231.0,MG
+174879,"Veal, ground, cooked, pan-fried",17,1092,"Potassium, K",245.0,MG
+174879,"Veal, ground, cooked, pan-fried",17,1093,"Sodium, Na",146.0,MG
+174879,"Veal, ground, cooked, pan-fried",17,1095,"Zinc, Zn",2.95,MG
+174879,"Veal, ground, cooked, pan-fried",17,1098,"Copper, Cu",0.116,MG
+174879,"Veal, ground, cooked, pan-fried",17,1100,"Iodine, I",0.0,UG
+174879,"Veal, ground, cooked, pan-fried",17,1101,"Manganese, Mn",0.009,MG
+174879,"Veal, ground, cooked, pan-fried",17,1103,"Selenium, Se",18.5,UG
+174879,"Veal, ground, cooked, pan-fried",17,1104,"Vitamin A, IU",0.0,IU
+174879,"Veal, ground, cooked, pan-fried",17,1110,"Vitamin D (D2 + D3), International Units",55.0,IU
+174879,"Veal, ground, cooked, pan-fried",17,1109,Vitamin E (alpha-tocopherol),0.26,MG
+174879,"Veal, ground, cooked, pan-fried",17,1165,Thiamin,0.095,MG
+174879,"Veal, ground, cooked, pan-fried",17,1166,Riboflavin,0.43,MG
+174879,"Veal, ground, cooked, pan-fried",17,1167,Niacin,7.9,MG
+174879,"Veal, ground, cooked, pan-fried",17,1170,Pantothenic acid,0.88,MG
+174879,"Veal, ground, cooked, pan-fried",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+174879,"Veal, ground, cooked, pan-fried",17,1178,Vitamin B-12,3.53,UG
+174879,"Veal, ground, cooked, pan-fried",17,1180,"Choline, total",119.6,MG
+174879,"Veal, ground, cooked, pan-fried",17,1186,Folic acid,0.0,UG
+174879,"Veal, ground, cooked, pan-fried",17,1210,Tryptophan,0.261,G
+174879,"Veal, ground, cooked, pan-fried",17,1211,Threonine,1.129,G
+174879,"Veal, ground, cooked, pan-fried",17,1212,Isoleucine,1.272,G
+174879,"Veal, ground, cooked, pan-fried",17,1213,Leucine,2.056,G
+174879,"Veal, ground, cooked, pan-fried",17,1214,Lysine,2.129,G
+174879,"Veal, ground, cooked, pan-fried",17,1215,Methionine,0.603,G
+174879,"Veal, ground, cooked, pan-fried",17,1217,Phenylalanine,1.042,G
+174879,"Veal, ground, cooked, pan-fried",17,1219,Valine,1.428,G
+174879,"Veal, ground, cooked, pan-fried",17,1220,Arginine,1.519,G
+174879,"Veal, ground, cooked, pan-fried",17,1221,Histidine,0.938,G
+174879,"Veal, ground, cooked, pan-fried",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+174879,"Veal, ground, cooked, pan-fried",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+174879,"Veal, ground, cooked, pan-fried",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+174879,"Veal, ground, cooked, pan-fried",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+174879,"Veal, ground, cooked, pan-fried",17,1316,"PUFA 18:2 n-6 c,c",0.599,G
+174879,"Veal, ground, cooked, pan-fried",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+175085,"Game meat, deer, cooked, roasted",17,1003,Protein,30.21,G
+175085,"Game meat, deer, cooked, roasted",17,1004,Total lipid (fat),3.19,G
+175085,"Game meat, deer, cooked, roasted",17,1005,"Carbohydrate, by difference",0.0,G
+175085,"Game meat, deer, cooked, roasted",17,1008,Energy,158.0,KCAL
+175085,"Game meat, deer, cooked, roasted",17,1087,"Calcium, Ca",7.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1088,"Chlorine, Cl",0.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1089,"Iron, Fe",4.47,MG
+175085,"Game meat, deer, cooked, roasted",17,1090,"Magnesium, Mg",24.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1091,"Phosphorus, P",226.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1092,"Potassium, K",335.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1093,"Sodium, Na",54.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1095,"Zinc, Zn",2.75,MG
+175085,"Game meat, deer, cooked, roasted",17,1098,"Copper, Cu",0.3,MG
+175085,"Game meat, deer, cooked, roasted",17,1100,"Iodine, I",0.0,UG
+175085,"Game meat, deer, cooked, roasted",17,1101,"Manganese, Mn",0.046,MG
+175085,"Game meat, deer, cooked, roasted",17,1103,"Selenium, Se",12.9,UG
+175085,"Game meat, deer, cooked, roasted",17,1104,"Vitamin A, IU",0.0,IU
+175085,"Game meat, deer, cooked, roasted",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+175085,"Game meat, deer, cooked, roasted",17,1109,Vitamin E (alpha-tocopherol),0.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1165,Thiamin,0.18,MG
+175085,"Game meat, deer, cooked, roasted",17,1166,Riboflavin,0.6,MG
+175085,"Game meat, deer, cooked, roasted",17,1167,Niacin,6.71,MG
+175085,"Game meat, deer, cooked, roasted",17,1170,Pantothenic acid,0.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1178,Vitamin B-12,0.0,UG
+175085,"Game meat, deer, cooked, roasted",17,1180,"Choline, total",0.0,MG
+175085,"Game meat, deer, cooked, roasted",17,1186,Folic acid,0.0,UG
+175085,"Game meat, deer, cooked, roasted",17,1210,Tryptophan,0.0,G
+175085,"Game meat, deer, cooked, roasted",17,1211,Threonine,1.421,G
+175085,"Game meat, deer, cooked, roasted",17,1212,Isoleucine,1.194,G
+175085,"Game meat, deer, cooked, roasted",17,1213,Leucine,2.566,G
+175085,"Game meat, deer, cooked, roasted",17,1214,Lysine,2.639,G
+175085,"Game meat, deer, cooked, roasted",17,1215,Methionine,0.745,G
+175085,"Game meat, deer, cooked, roasted",17,1217,Phenylalanine,1.233,G
+175085,"Game meat, deer, cooked, roasted",17,1219,Valine,1.412,G
+175085,"Game meat, deer, cooked, roasted",17,1220,Arginine,2.175,G
+175085,"Game meat, deer, cooked, roasted",17,1221,Histidine,1.494,G
+175085,"Game meat, deer, cooked, roasted",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175085,"Game meat, deer, cooked, roasted",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175085,"Game meat, deer, cooked, roasted",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+175085,"Game meat, deer, cooked, roasted",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+175085,"Game meat, deer, cooked, roasted",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+175085,"Game meat, deer, cooked, roasted",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1003,Protein,27.36,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1004,Total lipid (fat),7.5,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1005,"Carbohydrate, by difference",0.0,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1008,Energy,184.0,KCAL
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1087,"Calcium, Ca",46.0,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1088,"Chlorine, Cl",0.0,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1089,"Iron, Fe",0.71,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1090,"Magnesium, Mg",35.0,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1091,"Phosphorus, P",298.0,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1092,"Potassium, K",455.0,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1093,"Sodium, Na",53.0,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1095,"Zinc, Zn",0.52,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1098,"Copper, Cu",0.065,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1100,"Iodine, I",0.0,UG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1101,"Manganese, Mn",0.018,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1103,"Selenium, Se",46.2,UG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1104,"Vitamin A, IU",108.0,IU
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1165,Thiamin,0.115,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1166,Riboflavin,0.159,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1167,Niacin,7.779,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1170,Pantothenic acid,0.834,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1178,Vitamin B-12,4.48,UG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1180,"Choline, total",0.0,MG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1186,Folic acid,0.0,UG
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1210,Tryptophan,0.306,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1211,Threonine,1.2,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1212,Isoleucine,1.261,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1213,Leucine,2.224,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1214,Lysine,2.513,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1215,Methionine,0.81,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1217,Phenylalanine,1.068,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1219,Valine,1.41,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1220,Arginine,1.637,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1221,Histidine,0.806,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1272,PUFA 22:6 n-3 (DHA),0.831,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1278,PUFA 20:5 n-3 (EPA),0.543,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+175137,"Fish, salmon, coho, wild, cooked, moist heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1003,Protein,22.1,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1004,Total lipid (fat),12.35,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1008,Energy,206.0,KCAL
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1087,"Calcium, Ca",15.0,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1089,"Iron, Fe",0.34,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1090,"Magnesium, Mg",30.0,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1091,"Phosphorus, P",252.0,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1092,"Potassium, K",384.0,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1093,"Sodium, Na",61.0,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1095,"Zinc, Zn",0.43,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1098,"Copper, Cu",0.049,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1101,"Manganese, Mn",0.016,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1103,"Selenium, Se",41.4,UG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1104,"Vitamin A, IU",230.0,IU
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",526.0,IU
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),1.14,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1165,Thiamin,0.34,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1166,Riboflavin,0.135,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1167,Niacin,8.045,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1170,Pantothenic acid,1.475,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1178,Vitamin B-12,2.8,UG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1180,"Choline, total",90.5,MG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1186,Folic acid,0.0,UG
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1210,Tryptophan,0.248,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1211,Threonine,0.969,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1212,Isoleucine,1.018,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1213,Leucine,1.796,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1214,Lysine,2.03,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1215,Methionine,0.654,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1217,Phenylalanine,0.863,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1219,Valine,1.139,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1220,Arginine,1.322,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1221,Histidine,0.651,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),1.457,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.69,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+175168,"Fish, salmon, Atlantic, farmed, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+175177,"Fish, tilapia, cooked, dry heat",15,1003,Protein,26.15,G
+175177,"Fish, tilapia, cooked, dry heat",15,1004,Total lipid (fat),2.65,G
+175177,"Fish, tilapia, cooked, dry heat",15,1005,"Carbohydrate, by difference",0.0,G
+175177,"Fish, tilapia, cooked, dry heat",15,1008,Energy,128.0,KCAL
+175177,"Fish, tilapia, cooked, dry heat",15,1087,"Calcium, Ca",14.0,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1088,"Chlorine, Cl",0.0,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1089,"Iron, Fe",0.69,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1090,"Magnesium, Mg",34.0,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1091,"Phosphorus, P",204.0,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1092,"Potassium, K",380.0,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1093,"Sodium, Na",56.0,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1095,"Zinc, Zn",0.41,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1098,"Copper, Cu",0.075,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1100,"Iodine, I",0.0,UG
+175177,"Fish, tilapia, cooked, dry heat",15,1101,"Manganese, Mn",0.037,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1103,"Selenium, Se",54.4,UG
+175177,"Fish, tilapia, cooked, dry heat",15,1104,"Vitamin A, IU",0.0,IU
+175177,"Fish, tilapia, cooked, dry heat",15,1110,"Vitamin D (D2 + D3), International Units",150.0,IU
+175177,"Fish, tilapia, cooked, dry heat",15,1109,Vitamin E (alpha-tocopherol),0.79,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1165,Thiamin,0.093,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1166,Riboflavin,0.073,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1167,Niacin,4.745,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1170,Pantothenic acid,0.664,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1178,Vitamin B-12,1.86,UG
+175177,"Fish, tilapia, cooked, dry heat",15,1180,"Choline, total",51.3,MG
+175177,"Fish, tilapia, cooked, dry heat",15,1186,Folic acid,0.0,UG
+175177,"Fish, tilapia, cooked, dry heat",15,1210,Tryptophan,0.265,G
+175177,"Fish, tilapia, cooked, dry heat",15,1211,Threonine,1.156,G
+175177,"Fish, tilapia, cooked, dry heat",15,1212,Isoleucine,1.22,G
+175177,"Fish, tilapia, cooked, dry heat",15,1213,Leucine,2.04,G
+175177,"Fish, tilapia, cooked, dry heat",15,1214,Lysine,2.315,G
+175177,"Fish, tilapia, cooked, dry heat",15,1215,Methionine,0.766,G
+175177,"Fish, tilapia, cooked, dry heat",15,1217,Phenylalanine,1.05,G
+175177,"Fish, tilapia, cooked, dry heat",15,1219,Valine,1.28,G
+175177,"Fish, tilapia, cooked, dry heat",15,1220,Arginine,1.59,G
+175177,"Fish, tilapia, cooked, dry heat",15,1221,Histidine,0.585,G
+175177,"Fish, tilapia, cooked, dry heat",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175177,"Fish, tilapia, cooked, dry heat",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175177,"Fish, tilapia, cooked, dry heat",15,1272,PUFA 22:6 n-3 (DHA),0.13,G
+175177,"Fish, tilapia, cooked, dry heat",15,1278,PUFA 20:5 n-3 (EPA),0.005,G
+175177,"Fish, tilapia, cooked, dry heat",15,1316,"PUFA 18:2 n-6 c,c",0.0,G
+175177,"Fish, tilapia, cooked, dry heat",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.045,G
+175178,"Fish, cod, Pacific, cooked",15,1003,Protein,20.42,G
+175178,"Fish, cod, Pacific, cooked",15,1004,Total lipid (fat),0.25,G
+175178,"Fish, cod, Pacific, cooked",15,1005,"Carbohydrate, by difference",0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1008,Energy,84.0,KCAL
+175178,"Fish, cod, Pacific, cooked",15,1087,"Calcium, Ca",17.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1088,"Chlorine, Cl",0.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1089,"Iron, Fe",0.16,MG
+175178,"Fish, cod, Pacific, cooked",15,1090,"Magnesium, Mg",35.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1091,"Phosphorus, P",205.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1092,"Potassium, K",372.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1093,"Sodium, Na",134.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1095,"Zinc, Zn",0.43,MG
+175178,"Fish, cod, Pacific, cooked",15,1098,"Copper, Cu",0.019,MG
+175178,"Fish, cod, Pacific, cooked",15,1100,"Iodine, I",0.0,UG
+175178,"Fish, cod, Pacific, cooked",15,1101,"Manganese, Mn",0.012,MG
+175178,"Fish, cod, Pacific, cooked",15,1103,"Selenium, Se",0.0,UG
+175178,"Fish, cod, Pacific, cooked",15,1104,"Vitamin A, IU",0.0,IU
+175178,"Fish, cod, Pacific, cooked",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+175178,"Fish, cod, Pacific, cooked",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1165,Thiamin,0.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1166,Riboflavin,0.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1167,Niacin,0.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1170,Pantothenic acid,0.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1178,Vitamin B-12,0.0,UG
+175178,"Fish, cod, Pacific, cooked",15,1180,"Choline, total",0.0,MG
+175178,"Fish, cod, Pacific, cooked",15,1186,Folic acid,0.0,UG
+175178,"Fish, cod, Pacific, cooked",15,1210,Tryptophan,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1211,Threonine,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1212,Isoleucine,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1213,Leucine,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1214,Lysine,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1215,Methionine,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1217,Phenylalanine,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1219,Valine,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1220,Arginine,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1221,Histidine,0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175178,"Fish, cod, Pacific, cooked",15,1272,PUFA 22:6 n-3 (DHA),0.059,G
+175178,"Fish, cod, Pacific, cooked",15,1278,PUFA 20:5 n-3 (EPA),0.021,G
+175178,"Fish, cod, Pacific, cooked",15,1316,"PUFA 18:2 n-6 c,c",0.009,G
+175178,"Fish, cod, Pacific, cooked",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1003,Protein,23.98,G
+175180,"Crustaceans, shrimp, cooked",15,1004,Total lipid (fat),0.28,G
+175180,"Crustaceans, shrimp, cooked",15,1005,"Carbohydrate, by difference",0.2,G
+175180,"Crustaceans, shrimp, cooked",15,1008,Energy,99.0,KCAL
+175180,"Crustaceans, shrimp, cooked",15,1087,"Calcium, Ca",70.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1088,"Chlorine, Cl",0.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1089,"Iron, Fe",0.51,MG
+175180,"Crustaceans, shrimp, cooked",15,1090,"Magnesium, Mg",39.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1091,"Phosphorus, P",237.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1092,"Potassium, K",259.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1093,"Sodium, Na",111.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1095,"Zinc, Zn",1.64,MG
+175180,"Crustaceans, shrimp, cooked",15,1098,"Copper, Cu",0.379,MG
+175180,"Crustaceans, shrimp, cooked",15,1100,"Iodine, I",0.0,UG
+175180,"Crustaceans, shrimp, cooked",15,1101,"Manganese, Mn",0.033,MG
+175180,"Crustaceans, shrimp, cooked",15,1103,"Selenium, Se",0.0,UG
+175180,"Crustaceans, shrimp, cooked",15,1104,"Vitamin A, IU",0.0,IU
+175180,"Crustaceans, shrimp, cooked",15,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+175180,"Crustaceans, shrimp, cooked",15,1109,Vitamin E (alpha-tocopherol),0.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1165,Thiamin,0.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1166,Riboflavin,0.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1167,Niacin,0.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1170,Pantothenic acid,0.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1178,Vitamin B-12,0.0,UG
+175180,"Crustaceans, shrimp, cooked",15,1180,"Choline, total",0.0,MG
+175180,"Crustaceans, shrimp, cooked",15,1186,Folic acid,0.0,UG
+175180,"Crustaceans, shrimp, cooked",15,1210,Tryptophan,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1211,Threonine,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1212,Isoleucine,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1213,Leucine,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1214,Lysine,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1215,Methionine,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1217,Phenylalanine,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1219,Valine,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1220,Arginine,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1221,Histidine,0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175180,"Crustaceans, shrimp, cooked",15,1272,PUFA 22:6 n-3 (DHA),0.015,G
+175180,"Crustaceans, shrimp, cooked",15,1278,PUFA 20:5 n-3 (EPA),0.015,G
+175180,"Crustaceans, shrimp, cooked",15,1316,"PUFA 18:2 n-6 c,c",0.018,G
+175180,"Crustaceans, shrimp, cooked",15,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.001,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1003,Protein,31.9,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1004,Total lipid (fat),6.58,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1005,"Carbohydrate, by difference",0.0,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1008,Energy,196.0,KCAL
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1087,"Calcium, Ca",24.0,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1088,"Chlorine, Cl",0.0,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1089,"Iron, Fe",1.16,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1090,"Magnesium, Mg",28.0,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1091,"Phosphorus, P",250.0,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1092,"Potassium, K",338.0,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1093,"Sodium, Na",89.0,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1095,"Zinc, Zn",5.1,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1098,"Copper, Cu",0.12,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1100,"Iodine, I",0.0,UG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1101,"Manganese, Mn",0.038,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1103,"Selenium, Se",13.0,UG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1104,"Vitamin A, IU",0.0,IU
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1109,Vitamin E (alpha-tocopherol),0.42,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1165,Thiamin,0.06,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1166,Riboflavin,0.34,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1167,Niacin,8.42,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1170,Pantothenic acid,1.33,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1178,Vitamin B-12,1.65,UG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1180,"Choline, total",123.0,MG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1186,Folic acid,0.0,UG
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1210,Tryptophan,0.323,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1211,Threonine,1.393,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1212,Isoleucine,1.571,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1213,Leucine,2.539,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1214,Lysine,2.628,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1215,Methionine,0.744,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1217,Phenylalanine,1.287,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1219,Valine,1.763,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1220,Arginine,1.876,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1221,Histidine,1.158,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+175265,"Veal, composite of trimmed retail cuts, separable lean only, cooked",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1003,Protein,28.3,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1004,Total lipid (fat),4.38,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1005,"Carbohydrate, by difference",0.0,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1008,Energy,160.0,KCAL
+175298,"Game meat, boar, wild, cooked, roasted",17,1087,"Calcium, Ca",16.0,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1088,"Chlorine, Cl",0.0,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1089,"Iron, Fe",1.12,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1090,"Magnesium, Mg",27.0,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1091,"Phosphorus, P",134.0,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1092,"Potassium, K",396.0,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1093,"Sodium, Na",60.0,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1095,"Zinc, Zn",3.01,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1098,"Copper, Cu",0.056,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1100,"Iodine, I",0.0,UG
+175298,"Game meat, boar, wild, cooked, roasted",17,1101,"Manganese, Mn",0.0,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1103,"Selenium, Se",13.0,UG
+175298,"Game meat, boar, wild, cooked, roasted",17,1104,"Vitamin A, IU",0.0,IU
+175298,"Game meat, boar, wild, cooked, roasted",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+175298,"Game meat, boar, wild, cooked, roasted",17,1109,Vitamin E (alpha-tocopherol),0.38,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1165,Thiamin,0.31,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1166,Riboflavin,0.14,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1167,Niacin,4.21,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1170,Pantothenic acid,0.0,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1178,Vitamin B-12,0.7,UG
+175298,"Game meat, boar, wild, cooked, roasted",17,1180,"Choline, total",117.4,MG
+175298,"Game meat, boar, wild, cooked, roasted",17,1186,Folic acid,0.0,UG
+175298,"Game meat, boar, wild, cooked, roasted",17,1210,Tryptophan,0.38,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1211,Threonine,1.331,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1212,Isoleucine,1.367,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1213,Leucine,2.3,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1214,Lysine,2.789,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1215,Methionine,0.697,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1217,Phenylalanine,1.132,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1219,Valine,1.517,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1220,Arginine,1.965,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1221,Histidine,1.435,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+175298,"Game meat, boar, wild, cooked, roasted",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+175304,"Game meat, goat, cooked, roasted",17,1003,Protein,27.1,G
+175304,"Game meat, goat, cooked, roasted",17,1004,Total lipid (fat),3.03,G
+175304,"Game meat, goat, cooked, roasted",17,1005,"Carbohydrate, by difference",0.0,G
+175304,"Game meat, goat, cooked, roasted",17,1008,Energy,143.0,KCAL
+175304,"Game meat, goat, cooked, roasted",17,1087,"Calcium, Ca",17.0,MG
+175304,"Game meat, goat, cooked, roasted",17,1088,"Chlorine, Cl",0.0,MG
+175304,"Game meat, goat, cooked, roasted",17,1089,"Iron, Fe",3.73,MG
+175304,"Game meat, goat, cooked, roasted",17,1090,"Magnesium, Mg",0.0,MG
+175304,"Game meat, goat, cooked, roasted",17,1091,"Phosphorus, P",201.0,MG
+175304,"Game meat, goat, cooked, roasted",17,1092,"Potassium, K",405.0,MG
+175304,"Game meat, goat, cooked, roasted",17,1093,"Sodium, Na",86.0,MG
+175304,"Game meat, goat, cooked, roasted",17,1095,"Zinc, Zn",5.27,MG
+175304,"Game meat, goat, cooked, roasted",17,1098,"Copper, Cu",0.303,MG
+175304,"Game meat, goat, cooked, roasted",17,1100,"Iodine, I",0.0,UG
+175304,"Game meat, goat, cooked, roasted",17,1101,"Manganese, Mn",0.042,MG
+175304,"Game meat, goat, cooked, roasted",17,1103,"Selenium, Se",11.8,UG
+175304,"Game meat, goat, cooked, roasted",17,1104,"Vitamin A, IU",0.0,IU
+175304,"Game meat, goat, cooked, roasted",17,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+175304,"Game meat, goat, cooked, roasted",17,1109,Vitamin E (alpha-tocopherol),0.34,MG
+175304,"Game meat, goat, cooked, roasted",17,1165,Thiamin,0.09,MG
+175304,"Game meat, goat, cooked, roasted",17,1166,Riboflavin,0.61,MG
+175304,"Game meat, goat, cooked, roasted",17,1167,Niacin,3.95,MG
+175304,"Game meat, goat, cooked, roasted",17,1170,Pantothenic acid,0.0,MG
+175304,"Game meat, goat, cooked, roasted",17,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175304,"Game meat, goat, cooked, roasted",17,1178,Vitamin B-12,1.19,UG
+175304,"Game meat, goat, cooked, roasted",17,1180,"Choline, total",106.4,MG
+175304,"Game meat, goat, cooked, roasted",17,1186,Folic acid,0.0,UG
+175304,"Game meat, goat, cooked, roasted",17,1210,Tryptophan,0.403,G
+175304,"Game meat, goat, cooked, roasted",17,1211,Threonine,1.29,G
+175304,"Game meat, goat, cooked, roasted",17,1212,Isoleucine,1.371,G
+175304,"Game meat, goat, cooked, roasted",17,1213,Leucine,2.258,G
+175304,"Game meat, goat, cooked, roasted",17,1214,Lysine,2.016,G
+175304,"Game meat, goat, cooked, roasted",17,1215,Methionine,0.726,G
+175304,"Game meat, goat, cooked, roasted",17,1217,Phenylalanine,0.941,G
+175304,"Game meat, goat, cooked, roasted",17,1219,Valine,1.452,G
+175304,"Game meat, goat, cooked, roasted",17,1220,Arginine,1.989,G
+175304,"Game meat, goat, cooked, roasted",17,1221,Histidine,0.565,G
+175304,"Game meat, goat, cooked, roasted",17,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175304,"Game meat, goat, cooked, roasted",17,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175304,"Game meat, goat, cooked, roasted",17,1272,PUFA 22:6 n-3 (DHA),0.0,G
+175304,"Game meat, goat, cooked, roasted",17,1278,PUFA 20:5 n-3 (EPA),0.0,G
+175304,"Game meat, goat, cooked, roasted",17,1316,"PUFA 18:2 n-6 c,c",0.0,G
+175304,"Game meat, goat, cooked, roasted",17,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G

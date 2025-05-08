@@ -1,0 +1,689 @@
+fdc_id,description,food_category_id,nutrient_id,name,amount,unit_name
+167702,"Oil, flaxseed, cold pressed",4,1003,Protein,0.11,G
+167702,"Oil, flaxseed, cold pressed",4,1004,Total lipid (fat),99.98,G
+167702,"Oil, flaxseed, cold pressed",4,1005,"Carbohydrate, by difference",0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1008,Energy,884.0,KCAL
+167702,"Oil, flaxseed, cold pressed",4,1087,"Calcium, Ca",1.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1088,"Chlorine, Cl",0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1089,"Iron, Fe",0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1090,"Magnesium, Mg",0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1091,"Phosphorus, P",1.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1092,"Potassium, K",0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1093,"Sodium, Na",0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1095,"Zinc, Zn",0.07,MG
+167702,"Oil, flaxseed, cold pressed",4,1098,"Copper, Cu",0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1100,"Iodine, I",0.0,UG
+167702,"Oil, flaxseed, cold pressed",4,1101,"Manganese, Mn",0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1103,"Selenium, Se",0.0,UG
+167702,"Oil, flaxseed, cold pressed",4,1104,"Vitamin A, IU",0.0,IU
+167702,"Oil, flaxseed, cold pressed",4,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+167702,"Oil, flaxseed, cold pressed",4,1109,Vitamin E (alpha-tocopherol),0.47,MG
+167702,"Oil, flaxseed, cold pressed",4,1165,Thiamin,0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1166,Riboflavin,0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1167,Niacin,0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1170,Pantothenic acid,0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+167702,"Oil, flaxseed, cold pressed",4,1178,Vitamin B-12,0.0,UG
+167702,"Oil, flaxseed, cold pressed",4,1180,"Choline, total",0.2,MG
+167702,"Oil, flaxseed, cold pressed",4,1186,Folic acid,0.0,UG
+167702,"Oil, flaxseed, cold pressed",4,1210,Tryptophan,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1211,Threonine,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1212,Isoleucine,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1213,Leucine,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1214,Lysine,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1215,Methionine,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1217,Phenylalanine,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1219,Valine,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1220,Arginine,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1221,Histidine,0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1272,PUFA 22:6 n-3 (DHA),0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1278,PUFA 20:5 n-3 (EPA),0.0,G
+167702,"Oil, flaxseed, cold pressed",4,1316,"PUFA 18:2 n-6 c,c",14.246,G
+167702,"Oil, flaxseed, cold pressed",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",53.368,G
+169414,"Seeds, flaxseed",12,1003,Protein,18.29,G
+169414,"Seeds, flaxseed",12,1004,Total lipid (fat),42.16,G
+169414,"Seeds, flaxseed",12,1005,"Carbohydrate, by difference",28.88,G
+169414,"Seeds, flaxseed",12,1008,Energy,534.0,KCAL
+169414,"Seeds, flaxseed",12,1087,"Calcium, Ca",255.0,MG
+169414,"Seeds, flaxseed",12,1088,"Chlorine, Cl",0.0,MG
+169414,"Seeds, flaxseed",12,1089,"Iron, Fe",5.73,MG
+169414,"Seeds, flaxseed",12,1090,"Magnesium, Mg",392.0,MG
+169414,"Seeds, flaxseed",12,1091,"Phosphorus, P",642.0,MG
+169414,"Seeds, flaxseed",12,1092,"Potassium, K",813.0,MG
+169414,"Seeds, flaxseed",12,1093,"Sodium, Na",30.0,MG
+169414,"Seeds, flaxseed",12,1095,"Zinc, Zn",4.34,MG
+169414,"Seeds, flaxseed",12,1098,"Copper, Cu",1.22,MG
+169414,"Seeds, flaxseed",12,1100,"Iodine, I",0.0,UG
+169414,"Seeds, flaxseed",12,1101,"Manganese, Mn",2.482,MG
+169414,"Seeds, flaxseed",12,1103,"Selenium, Se",25.4,UG
+169414,"Seeds, flaxseed",12,1104,"Vitamin A, IU",0.0,IU
+169414,"Seeds, flaxseed",12,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169414,"Seeds, flaxseed",12,1109,Vitamin E (alpha-tocopherol),0.31,MG
+169414,"Seeds, flaxseed",12,1165,Thiamin,1.644,MG
+169414,"Seeds, flaxseed",12,1166,Riboflavin,0.161,MG
+169414,"Seeds, flaxseed",12,1167,Niacin,3.08,MG
+169414,"Seeds, flaxseed",12,1170,Pantothenic acid,0.985,MG
+169414,"Seeds, flaxseed",12,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169414,"Seeds, flaxseed",12,1178,Vitamin B-12,0.0,UG
+169414,"Seeds, flaxseed",12,1180,"Choline, total",78.7,MG
+169414,"Seeds, flaxseed",12,1186,Folic acid,0.0,UG
+169414,"Seeds, flaxseed",12,1210,Tryptophan,0.297,G
+169414,"Seeds, flaxseed",12,1211,Threonine,0.766,G
+169414,"Seeds, flaxseed",12,1212,Isoleucine,0.896,G
+169414,"Seeds, flaxseed",12,1213,Leucine,1.235,G
+169414,"Seeds, flaxseed",12,1214,Lysine,0.862,G
+169414,"Seeds, flaxseed",12,1215,Methionine,0.37,G
+169414,"Seeds, flaxseed",12,1217,Phenylalanine,0.957,G
+169414,"Seeds, flaxseed",12,1219,Valine,1.072,G
+169414,"Seeds, flaxseed",12,1220,Arginine,1.925,G
+169414,"Seeds, flaxseed",12,1221,Histidine,0.472,G
+169414,"Seeds, flaxseed",12,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169414,"Seeds, flaxseed",12,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169414,"Seeds, flaxseed",12,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169414,"Seeds, flaxseed",12,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169414,"Seeds, flaxseed",12,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169414,"Seeds, flaxseed",12,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1003,Protein,20.96,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1004,Total lipid (fat),52.54,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1005,"Carbohydrate, by difference",21.01,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1008,Energy,598.0,KCAL
+170158,"Nuts, almonds, dry roasted, without salt added",12,1087,"Calcium, Ca",268.0,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1088,"Chlorine, Cl",0.0,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1089,"Iron, Fe",3.73,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1090,"Magnesium, Mg",279.0,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1091,"Phosphorus, P",471.0,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1092,"Potassium, K",713.0,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1093,"Sodium, Na",3.0,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1095,"Zinc, Zn",3.31,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1098,"Copper, Cu",1.099,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1100,"Iodine, I",0.0,UG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1101,"Manganese, Mn",2.232,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1103,"Selenium, Se",2.0,UG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1104,"Vitamin A, IU",1.0,IU
+170158,"Nuts, almonds, dry roasted, without salt added",12,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+170158,"Nuts, almonds, dry roasted, without salt added",12,1109,Vitamin E (alpha-tocopherol),23.9,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1165,Thiamin,0.077,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1166,Riboflavin,1.197,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1167,Niacin,3.637,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1170,Pantothenic acid,0.321,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1178,Vitamin B-12,0.0,UG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1180,"Choline, total",52.1,MG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1186,Folic acid,0.0,UG
+170158,"Nuts, almonds, dry roasted, without salt added",12,1210,Tryptophan,0.209,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1211,Threonine,0.595,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1212,Isoleucine,0.745,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1213,Leucine,1.461,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1214,Lysine,0.563,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1215,Methionine,0.155,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1217,Phenylalanine,1.122,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1219,Valine,0.848,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1220,Arginine,2.444,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1221,Histidine,0.534,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1272,PUFA 22:6 n-3 (DHA),0.0,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1278,PUFA 20:5 n-3 (EPA),0.0,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1316,"PUFA 18:2 n-6 c,c",12.945,G
+170158,"Nuts, almonds, dry roasted, without salt added",12,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.006,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1003,Protein,9.5,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1004,Total lipid (fat),74.27,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1005,"Carbohydrate, by difference",13.55,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1008,Energy,710.0,KCAL
+170183,"Nuts, pecans, dry roasted, without salt added",12,1087,"Calcium, Ca",72.0,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1088,"Chlorine, Cl",0.0,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1089,"Iron, Fe",2.8,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1090,"Magnesium, Mg",132.0,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1091,"Phosphorus, P",293.0,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1092,"Potassium, K",424.0,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1093,"Sodium, Na",1.0,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1095,"Zinc, Zn",5.07,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1098,"Copper, Cu",1.167,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1100,"Iodine, I",0.0,UG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1101,"Manganese, Mn",3.933,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1103,"Selenium, Se",4.0,UG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1104,"Vitamin A, IU",140.0,IU
+170183,"Nuts, pecans, dry roasted, without salt added",12,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+170183,"Nuts, pecans, dry roasted, without salt added",12,1109,Vitamin E (alpha-tocopherol),1.3,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1165,Thiamin,0.45,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1166,Riboflavin,0.107,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1167,Niacin,1.167,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1170,Pantothenic acid,0.703,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1178,Vitamin B-12,0.0,UG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1180,"Choline, total",0.0,MG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1186,Folic acid,0.0,UG
+170183,"Nuts, pecans, dry roasted, without salt added",12,1210,Tryptophan,0.096,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1211,Threonine,0.317,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1212,Isoleucine,0.348,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1213,Leucine,0.619,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1214,Lysine,0.297,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1215,Methionine,0.189,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1217,Phenylalanine,0.441,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1219,Valine,0.426,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1220,Arginine,1.22,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1221,Histidine,0.271,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1272,PUFA 22:6 n-3 (DHA),0.0,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1278,PUFA 20:5 n-3 (EPA),0.0,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1316,"PUFA 18:2 n-6 c,c",0.0,G
+170183,"Nuts, pecans, dry roasted, without salt added",12,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1003,Protein,29.84,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1004,Total lipid (fat),49.05,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1005,"Carbohydrate, by difference",14.71,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1008,Energy,574.0,KCAL
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1087,"Calcium, Ca",52.0,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1088,"Chlorine, Cl",0.0,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1089,"Iron, Fe",8.07,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1090,"Magnesium, Mg",550.0,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1091,"Phosphorus, P",1174.0,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1092,"Potassium, K",788.0,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1093,"Sodium, Na",18.0,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1095,"Zinc, Zn",7.64,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1098,"Copper, Cu",1.275,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1100,"Iodine, I",0.0,UG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1101,"Manganese, Mn",4.49,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1103,"Selenium, Se",9.4,UG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1104,"Vitamin A, IU",8.0,IU
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1109,Vitamin E (alpha-tocopherol),0.56,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1165,Thiamin,0.07,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1166,Riboflavin,0.15,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1167,Niacin,4.43,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1170,Pantothenic acid,0.57,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1178,Vitamin B-12,0.0,UG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1180,"Choline, total",63.0,MG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1186,Folic acid,0.0,UG
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1210,Tryptophan,0.569,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1211,Threonine,0.985,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1212,Isoleucine,1.265,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1213,Leucine,2.388,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1214,Lysine,1.22,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1215,Methionine,0.595,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1217,Phenylalanine,1.711,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1219,Valine,1.559,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1220,Arginine,5.284,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1221,Histidine,0.77,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1272,PUFA 22:6 n-3 (DHA),0.0,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1278,PUFA 20:5 n-3 (EPA),0.0,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1316,"PUFA 18:2 n-6 c,c",19.559,G
+170557,"Seeds, pumpkin and squash seed kernels, roasted, without salt",12,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.111,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1003,Protein,19.33,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1004,Total lipid (fat),49.8,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1005,"Carbohydrate, by difference",24.07,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1008,Energy,582.0,KCAL
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1087,"Calcium, Ca",70.0,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1088,"Chlorine, Cl",0.0,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1089,"Iron, Fe",3.8,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1090,"Magnesium, Mg",129.0,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1091,"Phosphorus, P",1155.0,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1092,"Potassium, K",850.0,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1093,"Sodium, Na",3.0,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1095,"Zinc, Zn",5.29,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1098,"Copper, Cu",1.83,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1100,"Iodine, I",0.0,UG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1101,"Manganese, Mn",2.11,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1103,"Selenium, Se",79.3,UG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1104,"Vitamin A, IU",9.0,IU
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1109,Vitamin E (alpha-tocopherol),26.1,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1165,Thiamin,0.106,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1166,Riboflavin,0.246,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1167,Niacin,7.042,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1170,Pantothenic acid,7.042,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1178,Vitamin B-12,0.0,UG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1180,"Choline, total",55.1,MG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1186,Folic acid,0.0,UG
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1210,Tryptophan,0.295,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1211,Threonine,0.788,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1212,Isoleucine,0.967,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1213,Leucine,1.408,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1214,Lysine,0.795,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1215,Methionine,0.42,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1217,Phenylalanine,0.992,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1219,Valine,1.116,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1220,Arginine,2.039,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1221,Histidine,0.536,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1272,PUFA 22:6 n-3 (DHA),0.0,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1278,PUFA 20:5 n-3 (EPA),0.0,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1316,"PUFA 18:2 n-6 c,c",0.0,G
+170563,"Seeds, sunflower seed kernels, dry roasted, without salt",12,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1003,Protein,15.31,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1004,Total lipid (fat),46.35,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1005,"Carbohydrate, by difference",32.69,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1008,Energy,574.0,KCAL
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1087,"Calcium, Ca",45.0,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1088,"Chlorine, Cl",0.0,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1089,"Iron, Fe",6.0,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1090,"Magnesium, Mg",260.0,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1091,"Phosphorus, P",490.0,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1092,"Potassium, K",565.0,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1093,"Sodium, Na",16.0,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1095,"Zinc, Zn",5.6,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1098,"Copper, Cu",2.22,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1100,"Iodine, I",0.0,UG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1101,"Manganese, Mn",0.826,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1103,"Selenium, Se",11.7,UG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1104,"Vitamin A, IU",0.0,IU
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1109,Vitamin E (alpha-tocopherol),0.92,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1165,Thiamin,0.2,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1166,Riboflavin,0.2,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1167,Niacin,1.4,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1170,Pantothenic acid,1.217,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1178,Vitamin B-12,0.0,UG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1180,"Choline, total",61.0,MG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1186,Folic acid,0.0,UG
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1210,Tryptophan,0.237,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1211,Threonine,0.592,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1212,Isoleucine,0.731,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1213,Leucine,1.285,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1214,Lysine,0.817,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1215,Methionine,0.274,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1217,Phenylalanine,0.791,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1219,Valine,1.04,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1220,Arginine,1.741,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1221,Histidine,0.399,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1272,PUFA 22:6 n-3 (DHA),0.0,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1278,PUFA 20:5 n-3 (EPA),0.0,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1316,"PUFA 18:2 n-6 c,c",0.0,G
+170571,"Nuts, cashew nuts, dry roasted, without salt added",12,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171016,"Oil, sesame, salad or cooking",4,1003,Protein,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1004,Total lipid (fat),100.0,G
+171016,"Oil, sesame, salad or cooking",4,1005,"Carbohydrate, by difference",0.0,G
+171016,"Oil, sesame, salad or cooking",4,1008,Energy,884.0,KCAL
+171016,"Oil, sesame, salad or cooking",4,1087,"Calcium, Ca",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1088,"Chlorine, Cl",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1089,"Iron, Fe",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1090,"Magnesium, Mg",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1091,"Phosphorus, P",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1092,"Potassium, K",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1093,"Sodium, Na",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1095,"Zinc, Zn",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1098,"Copper, Cu",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1100,"Iodine, I",0.0,UG
+171016,"Oil, sesame, salad or cooking",4,1101,"Manganese, Mn",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1103,"Selenium, Se",0.0,UG
+171016,"Oil, sesame, salad or cooking",4,1104,"Vitamin A, IU",0.0,IU
+171016,"Oil, sesame, salad or cooking",4,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171016,"Oil, sesame, salad or cooking",4,1109,Vitamin E (alpha-tocopherol),1.4,MG
+171016,"Oil, sesame, salad or cooking",4,1165,Thiamin,0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1166,Riboflavin,0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1167,Niacin,0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1170,Pantothenic acid,0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171016,"Oil, sesame, salad or cooking",4,1178,Vitamin B-12,0.0,UG
+171016,"Oil, sesame, salad or cooking",4,1180,"Choline, total",0.2,MG
+171016,"Oil, sesame, salad or cooking",4,1186,Folic acid,0.0,UG
+171016,"Oil, sesame, salad or cooking",4,1210,Tryptophan,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1211,Threonine,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1212,Isoleucine,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1213,Leucine,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1214,Lysine,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1215,Methionine,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1217,Phenylalanine,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1219,Valine,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1220,Arginine,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1221,Histidine,0.0,G
+171016,"Oil, sesame, salad or cooking",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171016,"Oil, sesame, salad or cooking",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171016,"Oil, sesame, salad or cooking",4,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171016,"Oil, sesame, salad or cooking",4,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171016,"Oil, sesame, salad or cooking",4,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171016,"Oil, sesame, salad or cooking",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171030,"Oil, walnut",4,1003,Protein,0.0,G
+171030,"Oil, walnut",4,1004,Total lipid (fat),100.0,G
+171030,"Oil, walnut",4,1005,"Carbohydrate, by difference",0.0,G
+171030,"Oil, walnut",4,1008,Energy,884.0,KCAL
+171030,"Oil, walnut",4,1087,"Calcium, Ca",0.0,MG
+171030,"Oil, walnut",4,1088,"Chlorine, Cl",0.0,MG
+171030,"Oil, walnut",4,1089,"Iron, Fe",0.0,MG
+171030,"Oil, walnut",4,1090,"Magnesium, Mg",0.0,MG
+171030,"Oil, walnut",4,1091,"Phosphorus, P",0.0,MG
+171030,"Oil, walnut",4,1092,"Potassium, K",0.0,MG
+171030,"Oil, walnut",4,1093,"Sodium, Na",0.0,MG
+171030,"Oil, walnut",4,1095,"Zinc, Zn",0.0,MG
+171030,"Oil, walnut",4,1098,"Copper, Cu",0.0,MG
+171030,"Oil, walnut",4,1100,"Iodine, I",0.0,UG
+171030,"Oil, walnut",4,1101,"Manganese, Mn",0.0,MG
+171030,"Oil, walnut",4,1103,"Selenium, Se",0.0,UG
+171030,"Oil, walnut",4,1104,"Vitamin A, IU",0.0,IU
+171030,"Oil, walnut",4,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171030,"Oil, walnut",4,1109,Vitamin E (alpha-tocopherol),0.4,MG
+171030,"Oil, walnut",4,1165,Thiamin,0.0,MG
+171030,"Oil, walnut",4,1166,Riboflavin,0.0,MG
+171030,"Oil, walnut",4,1167,Niacin,0.0,MG
+171030,"Oil, walnut",4,1170,Pantothenic acid,0.0,MG
+171030,"Oil, walnut",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171030,"Oil, walnut",4,1178,Vitamin B-12,0.0,UG
+171030,"Oil, walnut",4,1180,"Choline, total",0.4,MG
+171030,"Oil, walnut",4,1186,Folic acid,0.0,UG
+171030,"Oil, walnut",4,1210,Tryptophan,0.0,G
+171030,"Oil, walnut",4,1211,Threonine,0.0,G
+171030,"Oil, walnut",4,1212,Isoleucine,0.0,G
+171030,"Oil, walnut",4,1213,Leucine,0.0,G
+171030,"Oil, walnut",4,1214,Lysine,0.0,G
+171030,"Oil, walnut",4,1215,Methionine,0.0,G
+171030,"Oil, walnut",4,1217,Phenylalanine,0.0,G
+171030,"Oil, walnut",4,1219,Valine,0.0,G
+171030,"Oil, walnut",4,1220,Arginine,0.0,G
+171030,"Oil, walnut",4,1221,Histidine,0.0,G
+171030,"Oil, walnut",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171030,"Oil, walnut",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171030,"Oil, walnut",4,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171030,"Oil, walnut",4,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171030,"Oil, walnut",4,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171030,"Oil, walnut",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171412,"Oil, coconut",4,1003,Protein,0.0,G
+171412,"Oil, coconut",4,1004,Total lipid (fat),99.06,G
+171412,"Oil, coconut",4,1005,"Carbohydrate, by difference",0.0,G
+171412,"Oil, coconut",4,1008,Energy,892.0,KCAL
+171412,"Oil, coconut",4,1087,"Calcium, Ca",1.0,MG
+171412,"Oil, coconut",4,1088,"Chlorine, Cl",0.0,MG
+171412,"Oil, coconut",4,1089,"Iron, Fe",0.05,MG
+171412,"Oil, coconut",4,1090,"Magnesium, Mg",0.0,MG
+171412,"Oil, coconut",4,1091,"Phosphorus, P",0.0,MG
+171412,"Oil, coconut",4,1092,"Potassium, K",0.0,MG
+171412,"Oil, coconut",4,1093,"Sodium, Na",0.0,MG
+171412,"Oil, coconut",4,1095,"Zinc, Zn",0.02,MG
+171412,"Oil, coconut",4,1098,"Copper, Cu",0.0,MG
+171412,"Oil, coconut",4,1100,"Iodine, I",0.0,UG
+171412,"Oil, coconut",4,1101,"Manganese, Mn",0.0,MG
+171412,"Oil, coconut",4,1103,"Selenium, Se",0.0,UG
+171412,"Oil, coconut",4,1104,"Vitamin A, IU",0.0,IU
+171412,"Oil, coconut",4,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171412,"Oil, coconut",4,1109,Vitamin E (alpha-tocopherol),0.11,MG
+171412,"Oil, coconut",4,1165,Thiamin,0.0,MG
+171412,"Oil, coconut",4,1166,Riboflavin,0.0,MG
+171412,"Oil, coconut",4,1167,Niacin,0.0,MG
+171412,"Oil, coconut",4,1170,Pantothenic acid,0.0,MG
+171412,"Oil, coconut",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171412,"Oil, coconut",4,1178,Vitamin B-12,0.0,UG
+171412,"Oil, coconut",4,1180,"Choline, total",0.3,MG
+171412,"Oil, coconut",4,1186,Folic acid,0.0,UG
+171412,"Oil, coconut",4,1210,Tryptophan,0.0,G
+171412,"Oil, coconut",4,1211,Threonine,0.0,G
+171412,"Oil, coconut",4,1212,Isoleucine,0.0,G
+171412,"Oil, coconut",4,1213,Leucine,0.0,G
+171412,"Oil, coconut",4,1214,Lysine,0.0,G
+171412,"Oil, coconut",4,1215,Methionine,0.0,G
+171412,"Oil, coconut",4,1217,Phenylalanine,0.0,G
+171412,"Oil, coconut",4,1219,Valine,0.0,G
+171412,"Oil, coconut",4,1220,Arginine,0.0,G
+171412,"Oil, coconut",4,1221,Histidine,0.0,G
+171412,"Oil, coconut",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171412,"Oil, coconut",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171412,"Oil, coconut",4,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171412,"Oil, coconut",4,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171412,"Oil, coconut",4,1316,"PUFA 18:2 n-6 c,c",1.676,G
+171412,"Oil, coconut",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.019,G
+171413,"Oil, olive, salad or cooking",4,1003,Protein,0.0,G
+171413,"Oil, olive, salad or cooking",4,1004,Total lipid (fat),100.0,G
+171413,"Oil, olive, salad or cooking",4,1005,"Carbohydrate, by difference",0.0,G
+171413,"Oil, olive, salad or cooking",4,1008,Energy,884.0,KCAL
+171413,"Oil, olive, salad or cooking",4,1087,"Calcium, Ca",1.0,MG
+171413,"Oil, olive, salad or cooking",4,1088,"Chlorine, Cl",0.0,MG
+171413,"Oil, olive, salad or cooking",4,1089,"Iron, Fe",0.56,MG
+171413,"Oil, olive, salad or cooking",4,1090,"Magnesium, Mg",0.0,MG
+171413,"Oil, olive, salad or cooking",4,1091,"Phosphorus, P",0.0,MG
+171413,"Oil, olive, salad or cooking",4,1092,"Potassium, K",1.0,MG
+171413,"Oil, olive, salad or cooking",4,1093,"Sodium, Na",2.0,MG
+171413,"Oil, olive, salad or cooking",4,1095,"Zinc, Zn",0.0,MG
+171413,"Oil, olive, salad or cooking",4,1098,"Copper, Cu",0.0,MG
+171413,"Oil, olive, salad or cooking",4,1100,"Iodine, I",0.0,UG
+171413,"Oil, olive, salad or cooking",4,1101,"Manganese, Mn",0.0,MG
+171413,"Oil, olive, salad or cooking",4,1103,"Selenium, Se",0.0,UG
+171413,"Oil, olive, salad or cooking",4,1104,"Vitamin A, IU",0.0,IU
+171413,"Oil, olive, salad or cooking",4,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171413,"Oil, olive, salad or cooking",4,1109,Vitamin E (alpha-tocopherol),14.35,MG
+171413,"Oil, olive, salad or cooking",4,1165,Thiamin,0.0,MG
+171413,"Oil, olive, salad or cooking",4,1166,Riboflavin,0.0,MG
+171413,"Oil, olive, salad or cooking",4,1167,Niacin,0.0,MG
+171413,"Oil, olive, salad or cooking",4,1170,Pantothenic acid,0.0,MG
+171413,"Oil, olive, salad or cooking",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171413,"Oil, olive, salad or cooking",4,1178,Vitamin B-12,0.0,UG
+171413,"Oil, olive, salad or cooking",4,1180,"Choline, total",0.3,MG
+171413,"Oil, olive, salad or cooking",4,1186,Folic acid,0.0,UG
+171413,"Oil, olive, salad or cooking",4,1210,Tryptophan,0.0,G
+171413,"Oil, olive, salad or cooking",4,1211,Threonine,0.0,G
+171413,"Oil, olive, salad or cooking",4,1212,Isoleucine,0.0,G
+171413,"Oil, olive, salad or cooking",4,1213,Leucine,0.0,G
+171413,"Oil, olive, salad or cooking",4,1214,Lysine,0.0,G
+171413,"Oil, olive, salad or cooking",4,1215,Methionine,0.0,G
+171413,"Oil, olive, salad or cooking",4,1217,Phenylalanine,0.0,G
+171413,"Oil, olive, salad or cooking",4,1219,Valine,0.0,G
+171413,"Oil, olive, salad or cooking",4,1220,Arginine,0.0,G
+171413,"Oil, olive, salad or cooking",4,1221,Histidine,0.0,G
+171413,"Oil, olive, salad or cooking",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171413,"Oil, olive, salad or cooking",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171413,"Oil, olive, salad or cooking",4,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171413,"Oil, olive, salad or cooking",4,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171413,"Oil, olive, salad or cooking",4,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171413,"Oil, olive, salad or cooking",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171429,"Oil, sheanut",4,1003,Protein,0.0,G
+171429,"Oil, sheanut",4,1004,Total lipid (fat),100.0,G
+171429,"Oil, sheanut",4,1005,"Carbohydrate, by difference",0.0,G
+171429,"Oil, sheanut",4,1008,Energy,884.0,KCAL
+171429,"Oil, sheanut",4,1087,"Calcium, Ca",0.0,MG
+171429,"Oil, sheanut",4,1088,"Chlorine, Cl",0.0,MG
+171429,"Oil, sheanut",4,1089,"Iron, Fe",0.0,MG
+171429,"Oil, sheanut",4,1090,"Magnesium, Mg",0.0,MG
+171429,"Oil, sheanut",4,1091,"Phosphorus, P",0.0,MG
+171429,"Oil, sheanut",4,1092,"Potassium, K",0.0,MG
+171429,"Oil, sheanut",4,1093,"Sodium, Na",0.0,MG
+171429,"Oil, sheanut",4,1095,"Zinc, Zn",0.0,MG
+171429,"Oil, sheanut",4,1098,"Copper, Cu",0.0,MG
+171429,"Oil, sheanut",4,1100,"Iodine, I",0.0,UG
+171429,"Oil, sheanut",4,1101,"Manganese, Mn",0.0,MG
+171429,"Oil, sheanut",4,1103,"Selenium, Se",0.0,UG
+171429,"Oil, sheanut",4,1104,"Vitamin A, IU",0.0,IU
+171429,"Oil, sheanut",4,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171429,"Oil, sheanut",4,1109,Vitamin E (alpha-tocopherol),0.0,MG
+171429,"Oil, sheanut",4,1165,Thiamin,0.0,MG
+171429,"Oil, sheanut",4,1166,Riboflavin,0.0,MG
+171429,"Oil, sheanut",4,1167,Niacin,0.0,MG
+171429,"Oil, sheanut",4,1170,Pantothenic acid,0.0,MG
+171429,"Oil, sheanut",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171429,"Oil, sheanut",4,1178,Vitamin B-12,0.0,UG
+171429,"Oil, sheanut",4,1180,"Choline, total",0.0,MG
+171429,"Oil, sheanut",4,1186,Folic acid,0.0,UG
+171429,"Oil, sheanut",4,1210,Tryptophan,0.0,G
+171429,"Oil, sheanut",4,1211,Threonine,0.0,G
+171429,"Oil, sheanut",4,1212,Isoleucine,0.0,G
+171429,"Oil, sheanut",4,1213,Leucine,0.0,G
+171429,"Oil, sheanut",4,1214,Lysine,0.0,G
+171429,"Oil, sheanut",4,1215,Methionine,0.0,G
+171429,"Oil, sheanut",4,1217,Phenylalanine,0.0,G
+171429,"Oil, sheanut",4,1219,Valine,0.0,G
+171429,"Oil, sheanut",4,1220,Arginine,0.0,G
+171429,"Oil, sheanut",4,1221,Histidine,0.0,G
+171429,"Oil, sheanut",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171429,"Oil, sheanut",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171429,"Oil, sheanut",4,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171429,"Oil, sheanut",4,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171429,"Oil, sheanut",4,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171429,"Oil, sheanut",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+172336,"Oil, canola",4,1003,Protein,0.0,G
+172336,"Oil, canola",4,1004,Total lipid (fat),100.0,G
+172336,"Oil, canola",4,1005,"Carbohydrate, by difference",0.0,G
+172336,"Oil, canola",4,1008,Energy,884.0,KCAL
+172336,"Oil, canola",4,1087,"Calcium, Ca",0.0,MG
+172336,"Oil, canola",4,1088,"Chlorine, Cl",0.0,MG
+172336,"Oil, canola",4,1089,"Iron, Fe",0.0,MG
+172336,"Oil, canola",4,1090,"Magnesium, Mg",0.0,MG
+172336,"Oil, canola",4,1091,"Phosphorus, P",0.0,MG
+172336,"Oil, canola",4,1092,"Potassium, K",0.0,MG
+172336,"Oil, canola",4,1093,"Sodium, Na",0.0,MG
+172336,"Oil, canola",4,1095,"Zinc, Zn",0.0,MG
+172336,"Oil, canola",4,1098,"Copper, Cu",0.0,MG
+172336,"Oil, canola",4,1100,"Iodine, I",0.0,UG
+172336,"Oil, canola",4,1101,"Manganese, Mn",0.0,MG
+172336,"Oil, canola",4,1103,"Selenium, Se",0.0,UG
+172336,"Oil, canola",4,1104,"Vitamin A, IU",0.0,IU
+172336,"Oil, canola",4,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+172336,"Oil, canola",4,1109,Vitamin E (alpha-tocopherol),17.46,MG
+172336,"Oil, canola",4,1165,Thiamin,0.0,MG
+172336,"Oil, canola",4,1166,Riboflavin,0.0,MG
+172336,"Oil, canola",4,1167,Niacin,0.0,MG
+172336,"Oil, canola",4,1170,Pantothenic acid,0.0,MG
+172336,"Oil, canola",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+172336,"Oil, canola",4,1178,Vitamin B-12,0.0,UG
+172336,"Oil, canola",4,1180,"Choline, total",0.2,MG
+172336,"Oil, canola",4,1186,Folic acid,0.0,UG
+172336,"Oil, canola",4,1210,Tryptophan,0.0,G
+172336,"Oil, canola",4,1211,Threonine,0.0,G
+172336,"Oil, canola",4,1212,Isoleucine,0.0,G
+172336,"Oil, canola",4,1213,Leucine,0.0,G
+172336,"Oil, canola",4,1214,Lysine,0.0,G
+172336,"Oil, canola",4,1215,Methionine,0.0,G
+172336,"Oil, canola",4,1217,Phenylalanine,0.0,G
+172336,"Oil, canola",4,1219,Valine,0.0,G
+172336,"Oil, canola",4,1220,Arginine,0.0,G
+172336,"Oil, canola",4,1221,Histidine,0.0,G
+172336,"Oil, canola",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+172336,"Oil, canola",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+172336,"Oil, canola",4,1272,PUFA 22:6 n-3 (DHA),0.0,G
+172336,"Oil, canola",4,1278,PUFA 20:5 n-3 (EPA),0.0,G
+172336,"Oil, canola",4,1316,"PUFA 18:2 n-6 c,c",18.64,G
+172336,"Oil, canola",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",9.137,G
+172343,"Fish oil, salmon",4,1003,Protein,0.0,G
+172343,"Fish oil, salmon",4,1004,Total lipid (fat),100.0,G
+172343,"Fish oil, salmon",4,1005,"Carbohydrate, by difference",0.0,G
+172343,"Fish oil, salmon",4,1008,Energy,902.0,KCAL
+172343,"Fish oil, salmon",4,1087,"Calcium, Ca",0.0,MG
+172343,"Fish oil, salmon",4,1088,"Chlorine, Cl",0.0,MG
+172343,"Fish oil, salmon",4,1089,"Iron, Fe",0.0,MG
+172343,"Fish oil, salmon",4,1090,"Magnesium, Mg",0.0,MG
+172343,"Fish oil, salmon",4,1091,"Phosphorus, P",0.0,MG
+172343,"Fish oil, salmon",4,1092,"Potassium, K",0.0,MG
+172343,"Fish oil, salmon",4,1093,"Sodium, Na",0.0,MG
+172343,"Fish oil, salmon",4,1095,"Zinc, Zn",0.0,MG
+172343,"Fish oil, salmon",4,1098,"Copper, Cu",0.0,MG
+172343,"Fish oil, salmon",4,1100,"Iodine, I",0.0,UG
+172343,"Fish oil, salmon",4,1101,"Manganese, Mn",0.0,MG
+172343,"Fish oil, salmon",4,1103,"Selenium, Se",0.0,UG
+172343,"Fish oil, salmon",4,1104,"Vitamin A, IU",0.0,IU
+172343,"Fish oil, salmon",4,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+172343,"Fish oil, salmon",4,1109,Vitamin E (alpha-tocopherol),0.0,MG
+172343,"Fish oil, salmon",4,1165,Thiamin,0.0,MG
+172343,"Fish oil, salmon",4,1166,Riboflavin,0.0,MG
+172343,"Fish oil, salmon",4,1167,Niacin,0.0,MG
+172343,"Fish oil, salmon",4,1170,Pantothenic acid,0.0,MG
+172343,"Fish oil, salmon",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+172343,"Fish oil, salmon",4,1178,Vitamin B-12,0.0,UG
+172343,"Fish oil, salmon",4,1180,"Choline, total",0.0,MG
+172343,"Fish oil, salmon",4,1186,Folic acid,0.0,UG
+172343,"Fish oil, salmon",4,1210,Tryptophan,0.0,G
+172343,"Fish oil, salmon",4,1211,Threonine,0.0,G
+172343,"Fish oil, salmon",4,1212,Isoleucine,0.0,G
+172343,"Fish oil, salmon",4,1213,Leucine,0.0,G
+172343,"Fish oil, salmon",4,1214,Lysine,0.0,G
+172343,"Fish oil, salmon",4,1215,Methionine,0.0,G
+172343,"Fish oil, salmon",4,1217,Phenylalanine,0.0,G
+172343,"Fish oil, salmon",4,1219,Valine,0.0,G
+172343,"Fish oil, salmon",4,1220,Arginine,0.0,G
+172343,"Fish oil, salmon",4,1221,Histidine,0.0,G
+172343,"Fish oil, salmon",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+172343,"Fish oil, salmon",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+172343,"Fish oil, salmon",4,1272,PUFA 22:6 n-3 (DHA),18.232,G
+172343,"Fish oil, salmon",4,1278,PUFA 20:5 n-3 (EPA),13.023,G
+172343,"Fish oil, salmon",4,1316,"PUFA 18:2 n-6 c,c",0.0,G
+172343,"Fish oil, salmon",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+172344,"Butter, light, stick, without salt",4,1003,Protein,3.3,G
+172344,"Butter, light, stick, without salt",4,1004,Total lipid (fat),55.1,G
+172344,"Butter, light, stick, without salt",4,1005,"Carbohydrate, by difference",0.0,G
+172344,"Butter, light, stick, without salt",4,1008,Energy,499.0,KCAL
+172344,"Butter, light, stick, without salt",4,1087,"Calcium, Ca",48.0,MG
+172344,"Butter, light, stick, without salt",4,1088,"Chlorine, Cl",0.0,MG
+172344,"Butter, light, stick, without salt",4,1089,"Iron, Fe",1.09,MG
+172344,"Butter, light, stick, without salt",4,1090,"Magnesium, Mg",5.0,MG
+172344,"Butter, light, stick, without salt",4,1091,"Phosphorus, P",34.0,MG
+172344,"Butter, light, stick, without salt",4,1092,"Potassium, K",71.0,MG
+172344,"Butter, light, stick, without salt",4,1093,"Sodium, Na",36.0,MG
+172344,"Butter, light, stick, without salt",4,1095,"Zinc, Zn",0.26,MG
+172344,"Butter, light, stick, without salt",4,1098,"Copper, Cu",0.0,MG
+172344,"Butter, light, stick, without salt",4,1100,"Iodine, I",0.0,UG
+172344,"Butter, light, stick, without salt",4,1101,"Manganese, Mn",0.0,MG
+172344,"Butter, light, stick, without salt",4,1103,"Selenium, Se",1.0,UG
+172344,"Butter, light, stick, without salt",4,1104,"Vitamin A, IU",1698.0,IU
+172344,"Butter, light, stick, without salt",4,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+172344,"Butter, light, stick, without salt",4,1109,Vitamin E (alpha-tocopherol),1.58,MG
+172344,"Butter, light, stick, without salt",4,1165,Thiamin,0.01,MG
+172344,"Butter, light, stick, without salt",4,1166,Riboflavin,0.07,MG
+172344,"Butter, light, stick, without salt",4,1167,Niacin,0.02,MG
+172344,"Butter, light, stick, without salt",4,1170,Pantothenic acid,0.0,MG
+172344,"Butter, light, stick, without salt",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+172344,"Butter, light, stick, without salt",4,1178,Vitamin B-12,0.13,UG
+172344,"Butter, light, stick, without salt",4,1180,"Choline, total",12.9,MG
+172344,"Butter, light, stick, without salt",4,1186,Folic acid,0.0,UG
+172344,"Butter, light, stick, without salt",4,1210,Tryptophan,0.0,G
+172344,"Butter, light, stick, without salt",4,1211,Threonine,0.0,G
+172344,"Butter, light, stick, without salt",4,1212,Isoleucine,0.0,G
+172344,"Butter, light, stick, without salt",4,1213,Leucine,0.0,G
+172344,"Butter, light, stick, without salt",4,1214,Lysine,0.0,G
+172344,"Butter, light, stick, without salt",4,1215,Methionine,0.0,G
+172344,"Butter, light, stick, without salt",4,1217,Phenylalanine,0.0,G
+172344,"Butter, light, stick, without salt",4,1219,Valine,0.0,G
+172344,"Butter, light, stick, without salt",4,1220,Arginine,0.0,G
+172344,"Butter, light, stick, without salt",4,1221,Histidine,0.0,G
+172344,"Butter, light, stick, without salt",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+172344,"Butter, light, stick, without salt",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+172344,"Butter, light, stick, without salt",4,1272,PUFA 22:6 n-3 (DHA),0.0,G
+172344,"Butter, light, stick, without salt",4,1278,PUFA 20:5 n-3 (EPA),0.0,G
+172344,"Butter, light, stick, without salt",4,1316,"PUFA 18:2 n-6 c,c",0.0,G
+172344,"Butter, light, stick, without salt",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+173578,"Fish oil, sardine",4,1003,Protein,0.0,G
+173578,"Fish oil, sardine",4,1004,Total lipid (fat),100.0,G
+173578,"Fish oil, sardine",4,1005,"Carbohydrate, by difference",0.0,G
+173578,"Fish oil, sardine",4,1008,Energy,902.0,KCAL
+173578,"Fish oil, sardine",4,1087,"Calcium, Ca",0.0,MG
+173578,"Fish oil, sardine",4,1088,"Chlorine, Cl",0.0,MG
+173578,"Fish oil, sardine",4,1089,"Iron, Fe",0.0,MG
+173578,"Fish oil, sardine",4,1090,"Magnesium, Mg",0.0,MG
+173578,"Fish oil, sardine",4,1091,"Phosphorus, P",0.0,MG
+173578,"Fish oil, sardine",4,1092,"Potassium, K",0.0,MG
+173578,"Fish oil, sardine",4,1093,"Sodium, Na",0.0,MG
+173578,"Fish oil, sardine",4,1095,"Zinc, Zn",0.0,MG
+173578,"Fish oil, sardine",4,1098,"Copper, Cu",0.0,MG
+173578,"Fish oil, sardine",4,1100,"Iodine, I",0.0,UG
+173578,"Fish oil, sardine",4,1101,"Manganese, Mn",0.0,MG
+173578,"Fish oil, sardine",4,1103,"Selenium, Se",0.0,UG
+173578,"Fish oil, sardine",4,1104,"Vitamin A, IU",0.0,IU
+173578,"Fish oil, sardine",4,1110,"Vitamin D (D2 + D3), International Units",332.0,IU
+173578,"Fish oil, sardine",4,1109,Vitamin E (alpha-tocopherol),0.0,MG
+173578,"Fish oil, sardine",4,1165,Thiamin,0.0,MG
+173578,"Fish oil, sardine",4,1166,Riboflavin,0.0,MG
+173578,"Fish oil, sardine",4,1167,Niacin,0.0,MG
+173578,"Fish oil, sardine",4,1170,Pantothenic acid,0.0,MG
+173578,"Fish oil, sardine",4,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+173578,"Fish oil, sardine",4,1178,Vitamin B-12,0.0,UG
+173578,"Fish oil, sardine",4,1180,"Choline, total",0.0,MG
+173578,"Fish oil, sardine",4,1186,Folic acid,0.0,UG
+173578,"Fish oil, sardine",4,1210,Tryptophan,0.0,G
+173578,"Fish oil, sardine",4,1211,Threonine,0.0,G
+173578,"Fish oil, sardine",4,1212,Isoleucine,0.0,G
+173578,"Fish oil, sardine",4,1213,Leucine,0.0,G
+173578,"Fish oil, sardine",4,1214,Lysine,0.0,G
+173578,"Fish oil, sardine",4,1215,Methionine,0.0,G
+173578,"Fish oil, sardine",4,1217,Phenylalanine,0.0,G
+173578,"Fish oil, sardine",4,1219,Valine,0.0,G
+173578,"Fish oil, sardine",4,1220,Arginine,0.0,G
+173578,"Fish oil, sardine",4,1221,Histidine,0.0,G
+173578,"Fish oil, sardine",4,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+173578,"Fish oil, sardine",4,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+173578,"Fish oil, sardine",4,1272,PUFA 22:6 n-3 (DHA),10.656,G
+173578,"Fish oil, sardine",4,1278,PUFA 20:5 n-3 (EPA),10.137,G
+173578,"Fish oil, sardine",4,1316,"PUFA 18:2 n-6 c,c",0.0,G
+173578,"Fish oil, sardine",4,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G

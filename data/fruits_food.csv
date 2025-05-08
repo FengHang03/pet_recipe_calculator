@@ -1,0 +1,861 @@
+fdc_id,description,food_category_id,nutrient_id,name,amount,unit_name
+167762,"Strawberries, raw",9,1003,Protein,0.67,G
+167762,"Strawberries, raw",9,1004,Total lipid (fat),0.3,G
+167762,"Strawberries, raw",9,1005,"Carbohydrate, by difference",7.68,G
+167762,"Strawberries, raw",9,1008,Energy,32.0,KCAL
+167762,"Strawberries, raw",9,1087,"Calcium, Ca",16.0,MG
+167762,"Strawberries, raw",9,1088,"Chlorine, Cl",0.0,MG
+167762,"Strawberries, raw",9,1089,"Iron, Fe",0.41,MG
+167762,"Strawberries, raw",9,1090,"Magnesium, Mg",13.0,MG
+167762,"Strawberries, raw",9,1091,"Phosphorus, P",24.0,MG
+167762,"Strawberries, raw",9,1092,"Potassium, K",153.0,MG
+167762,"Strawberries, raw",9,1093,"Sodium, Na",1.0,MG
+167762,"Strawberries, raw",9,1095,"Zinc, Zn",0.14,MG
+167762,"Strawberries, raw",9,1098,"Copper, Cu",0.048,MG
+167762,"Strawberries, raw",9,1100,"Iodine, I",0.0,UG
+167762,"Strawberries, raw",9,1101,"Manganese, Mn",0.386,MG
+167762,"Strawberries, raw",9,1103,"Selenium, Se",0.4,UG
+167762,"Strawberries, raw",9,1104,"Vitamin A, IU",12.0,IU
+167762,"Strawberries, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+167762,"Strawberries, raw",9,1109,Vitamin E (alpha-tocopherol),0.29,MG
+167762,"Strawberries, raw",9,1165,Thiamin,0.024,MG
+167762,"Strawberries, raw",9,1166,Riboflavin,0.022,MG
+167762,"Strawberries, raw",9,1167,Niacin,0.386,MG
+167762,"Strawberries, raw",9,1170,Pantothenic acid,0.125,MG
+167762,"Strawberries, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+167762,"Strawberries, raw",9,1178,Vitamin B-12,0.0,UG
+167762,"Strawberries, raw",9,1180,"Choline, total",5.7,MG
+167762,"Strawberries, raw",9,1186,Folic acid,0.0,UG
+167762,"Strawberries, raw",9,1210,Tryptophan,0.008,G
+167762,"Strawberries, raw",9,1211,Threonine,0.02,G
+167762,"Strawberries, raw",9,1212,Isoleucine,0.016,G
+167762,"Strawberries, raw",9,1213,Leucine,0.034,G
+167762,"Strawberries, raw",9,1214,Lysine,0.026,G
+167762,"Strawberries, raw",9,1215,Methionine,0.002,G
+167762,"Strawberries, raw",9,1217,Phenylalanine,0.019,G
+167762,"Strawberries, raw",9,1219,Valine,0.019,G
+167762,"Strawberries, raw",9,1220,Arginine,0.028,G
+167762,"Strawberries, raw",9,1221,Histidine,0.012,G
+167762,"Strawberries, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+167762,"Strawberries, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+167762,"Strawberries, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+167762,"Strawberries, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+167762,"Strawberries, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+167762,"Strawberries, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+167765,"Watermelon, raw",9,1003,Protein,0.61,G
+167765,"Watermelon, raw",9,1004,Total lipid (fat),0.15,G
+167765,"Watermelon, raw",9,1005,"Carbohydrate, by difference",7.55,G
+167765,"Watermelon, raw",9,1008,Energy,30.0,KCAL
+167765,"Watermelon, raw",9,1087,"Calcium, Ca",7.0,MG
+167765,"Watermelon, raw",9,1088,"Chlorine, Cl",0.0,MG
+167765,"Watermelon, raw",9,1089,"Iron, Fe",0.24,MG
+167765,"Watermelon, raw",9,1090,"Magnesium, Mg",10.0,MG
+167765,"Watermelon, raw",9,1091,"Phosphorus, P",11.0,MG
+167765,"Watermelon, raw",9,1092,"Potassium, K",112.0,MG
+167765,"Watermelon, raw",9,1093,"Sodium, Na",1.0,MG
+167765,"Watermelon, raw",9,1095,"Zinc, Zn",0.1,MG
+167765,"Watermelon, raw",9,1098,"Copper, Cu",0.042,MG
+167765,"Watermelon, raw",9,1100,"Iodine, I",0.0,UG
+167765,"Watermelon, raw",9,1101,"Manganese, Mn",0.038,MG
+167765,"Watermelon, raw",9,1103,"Selenium, Se",0.4,UG
+167765,"Watermelon, raw",9,1104,"Vitamin A, IU",569.0,IU
+167765,"Watermelon, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+167765,"Watermelon, raw",9,1109,Vitamin E (alpha-tocopherol),0.05,MG
+167765,"Watermelon, raw",9,1165,Thiamin,0.033,MG
+167765,"Watermelon, raw",9,1166,Riboflavin,0.021,MG
+167765,"Watermelon, raw",9,1167,Niacin,0.178,MG
+167765,"Watermelon, raw",9,1170,Pantothenic acid,0.221,MG
+167765,"Watermelon, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+167765,"Watermelon, raw",9,1178,Vitamin B-12,0.0,UG
+167765,"Watermelon, raw",9,1180,"Choline, total",4.1,MG
+167765,"Watermelon, raw",9,1186,Folic acid,0.0,UG
+167765,"Watermelon, raw",9,1210,Tryptophan,0.007,G
+167765,"Watermelon, raw",9,1211,Threonine,0.027,G
+167765,"Watermelon, raw",9,1212,Isoleucine,0.019,G
+167765,"Watermelon, raw",9,1213,Leucine,0.018,G
+167765,"Watermelon, raw",9,1214,Lysine,0.062,G
+167765,"Watermelon, raw",9,1215,Methionine,0.006,G
+167765,"Watermelon, raw",9,1217,Phenylalanine,0.015,G
+167765,"Watermelon, raw",9,1219,Valine,0.016,G
+167765,"Watermelon, raw",9,1220,Arginine,0.059,G
+167765,"Watermelon, raw",9,1221,Histidine,0.006,G
+167765,"Watermelon, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+167765,"Watermelon, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+167765,"Watermelon, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+167765,"Watermelon, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+167765,"Watermelon, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+167765,"Watermelon, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+168151,"Jujube, raw",9,1003,Protein,1.2,G
+168151,"Jujube, raw",9,1004,Total lipid (fat),0.2,G
+168151,"Jujube, raw",9,1005,"Carbohydrate, by difference",20.23,G
+168151,"Jujube, raw",9,1008,Energy,79.0,KCAL
+168151,"Jujube, raw",9,1087,"Calcium, Ca",21.0,MG
+168151,"Jujube, raw",9,1088,"Chlorine, Cl",0.0,MG
+168151,"Jujube, raw",9,1089,"Iron, Fe",0.48,MG
+168151,"Jujube, raw",9,1090,"Magnesium, Mg",10.0,MG
+168151,"Jujube, raw",9,1091,"Phosphorus, P",23.0,MG
+168151,"Jujube, raw",9,1092,"Potassium, K",250.0,MG
+168151,"Jujube, raw",9,1093,"Sodium, Na",3.0,MG
+168151,"Jujube, raw",9,1095,"Zinc, Zn",0.05,MG
+168151,"Jujube, raw",9,1098,"Copper, Cu",0.073,MG
+168151,"Jujube, raw",9,1100,"Iodine, I",0.0,UG
+168151,"Jujube, raw",9,1101,"Manganese, Mn",0.084,MG
+168151,"Jujube, raw",9,1103,"Selenium, Se",0.0,UG
+168151,"Jujube, raw",9,1104,"Vitamin A, IU",40.0,IU
+168151,"Jujube, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+168151,"Jujube, raw",9,1109,Vitamin E (alpha-tocopherol),0.0,MG
+168151,"Jujube, raw",9,1165,Thiamin,0.02,MG
+168151,"Jujube, raw",9,1166,Riboflavin,0.04,MG
+168151,"Jujube, raw",9,1167,Niacin,0.9,MG
+168151,"Jujube, raw",9,1170,Pantothenic acid,0.0,MG
+168151,"Jujube, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+168151,"Jujube, raw",9,1178,Vitamin B-12,0.0,UG
+168151,"Jujube, raw",9,1180,"Choline, total",0.0,MG
+168151,"Jujube, raw",9,1186,Folic acid,0.0,UG
+168151,"Jujube, raw",9,1210,Tryptophan,0.0,G
+168151,"Jujube, raw",9,1211,Threonine,0.0,G
+168151,"Jujube, raw",9,1212,Isoleucine,0.0,G
+168151,"Jujube, raw",9,1213,Leucine,0.0,G
+168151,"Jujube, raw",9,1214,Lysine,0.0,G
+168151,"Jujube, raw",9,1215,Methionine,0.0,G
+168151,"Jujube, raw",9,1217,Phenylalanine,0.0,G
+168151,"Jujube, raw",9,1219,Valine,0.0,G
+168151,"Jujube, raw",9,1220,Arginine,0.0,G
+168151,"Jujube, raw",9,1221,Histidine,0.0,G
+168151,"Jujube, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+168151,"Jujube, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+168151,"Jujube, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+168151,"Jujube, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+168151,"Jujube, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+168151,"Jujube, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+168153,"Kiwifruit, green, raw",9,1003,Protein,1.14,G
+168153,"Kiwifruit, green, raw",9,1004,Total lipid (fat),0.52,G
+168153,"Kiwifruit, green, raw",9,1005,"Carbohydrate, by difference",14.66,G
+168153,"Kiwifruit, green, raw",9,1008,Energy,61.0,KCAL
+168153,"Kiwifruit, green, raw",9,1087,"Calcium, Ca",34.0,MG
+168153,"Kiwifruit, green, raw",9,1088,"Chlorine, Cl",0.0,MG
+168153,"Kiwifruit, green, raw",9,1089,"Iron, Fe",0.31,MG
+168153,"Kiwifruit, green, raw",9,1090,"Magnesium, Mg",17.0,MG
+168153,"Kiwifruit, green, raw",9,1091,"Phosphorus, P",34.0,MG
+168153,"Kiwifruit, green, raw",9,1092,"Potassium, K",312.0,MG
+168153,"Kiwifruit, green, raw",9,1093,"Sodium, Na",3.0,MG
+168153,"Kiwifruit, green, raw",9,1095,"Zinc, Zn",0.14,MG
+168153,"Kiwifruit, green, raw",9,1098,"Copper, Cu",0.13,MG
+168153,"Kiwifruit, green, raw",9,1100,"Iodine, I",0.0,UG
+168153,"Kiwifruit, green, raw",9,1101,"Manganese, Mn",0.098,MG
+168153,"Kiwifruit, green, raw",9,1103,"Selenium, Se",0.2,UG
+168153,"Kiwifruit, green, raw",9,1104,"Vitamin A, IU",87.0,IU
+168153,"Kiwifruit, green, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+168153,"Kiwifruit, green, raw",9,1109,Vitamin E (alpha-tocopherol),1.46,MG
+168153,"Kiwifruit, green, raw",9,1165,Thiamin,0.027,MG
+168153,"Kiwifruit, green, raw",9,1166,Riboflavin,0.025,MG
+168153,"Kiwifruit, green, raw",9,1167,Niacin,0.341,MG
+168153,"Kiwifruit, green, raw",9,1170,Pantothenic acid,0.183,MG
+168153,"Kiwifruit, green, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+168153,"Kiwifruit, green, raw",9,1178,Vitamin B-12,0.0,UG
+168153,"Kiwifruit, green, raw",9,1180,"Choline, total",7.8,MG
+168153,"Kiwifruit, green, raw",9,1186,Folic acid,0.0,UG
+168153,"Kiwifruit, green, raw",9,1210,Tryptophan,0.015,G
+168153,"Kiwifruit, green, raw",9,1211,Threonine,0.047,G
+168153,"Kiwifruit, green, raw",9,1212,Isoleucine,0.051,G
+168153,"Kiwifruit, green, raw",9,1213,Leucine,0.066,G
+168153,"Kiwifruit, green, raw",9,1214,Lysine,0.061,G
+168153,"Kiwifruit, green, raw",9,1215,Methionine,0.024,G
+168153,"Kiwifruit, green, raw",9,1217,Phenylalanine,0.044,G
+168153,"Kiwifruit, green, raw",9,1219,Valine,0.057,G
+168153,"Kiwifruit, green, raw",9,1220,Arginine,0.081,G
+168153,"Kiwifruit, green, raw",9,1221,Histidine,0.027,G
+168153,"Kiwifruit, green, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+168153,"Kiwifruit, green, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+168153,"Kiwifruit, green, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+168153,"Kiwifruit, green, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+168153,"Kiwifruit, green, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+168153,"Kiwifruit, green, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+168177,"Pears, asian, raw",9,1003,Protein,0.5,G
+168177,"Pears, asian, raw",9,1004,Total lipid (fat),0.23,G
+168177,"Pears, asian, raw",9,1005,"Carbohydrate, by difference",10.65,G
+168177,"Pears, asian, raw",9,1008,Energy,42.0,KCAL
+168177,"Pears, asian, raw",9,1087,"Calcium, Ca",4.0,MG
+168177,"Pears, asian, raw",9,1088,"Chlorine, Cl",0.0,MG
+168177,"Pears, asian, raw",9,1089,"Iron, Fe",0.0,MG
+168177,"Pears, asian, raw",9,1090,"Magnesium, Mg",8.0,MG
+168177,"Pears, asian, raw",9,1091,"Phosphorus, P",11.0,MG
+168177,"Pears, asian, raw",9,1092,"Potassium, K",121.0,MG
+168177,"Pears, asian, raw",9,1093,"Sodium, Na",0.0,MG
+168177,"Pears, asian, raw",9,1095,"Zinc, Zn",0.02,MG
+168177,"Pears, asian, raw",9,1098,"Copper, Cu",0.05,MG
+168177,"Pears, asian, raw",9,1100,"Iodine, I",0.0,UG
+168177,"Pears, asian, raw",9,1101,"Manganese, Mn",0.06,MG
+168177,"Pears, asian, raw",9,1103,"Selenium, Se",0.1,UG
+168177,"Pears, asian, raw",9,1104,"Vitamin A, IU",0.0,IU
+168177,"Pears, asian, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+168177,"Pears, asian, raw",9,1109,Vitamin E (alpha-tocopherol),0.12,MG
+168177,"Pears, asian, raw",9,1165,Thiamin,0.009,MG
+168177,"Pears, asian, raw",9,1166,Riboflavin,0.01,MG
+168177,"Pears, asian, raw",9,1167,Niacin,0.219,MG
+168177,"Pears, asian, raw",9,1170,Pantothenic acid,0.07,MG
+168177,"Pears, asian, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+168177,"Pears, asian, raw",9,1178,Vitamin B-12,0.0,UG
+168177,"Pears, asian, raw",9,1180,"Choline, total",5.1,MG
+168177,"Pears, asian, raw",9,1186,Folic acid,0.0,UG
+168177,"Pears, asian, raw",9,1210,Tryptophan,0.005,G
+168177,"Pears, asian, raw",9,1211,Threonine,0.013,G
+168177,"Pears, asian, raw",9,1212,Isoleucine,0.014,G
+168177,"Pears, asian, raw",9,1213,Leucine,0.025,G
+168177,"Pears, asian, raw",9,1214,Lysine,0.017,G
+168177,"Pears, asian, raw",9,1215,Methionine,0.006,G
+168177,"Pears, asian, raw",9,1217,Phenylalanine,0.013,G
+168177,"Pears, asian, raw",9,1219,Valine,0.018,G
+168177,"Pears, asian, raw",9,1220,Arginine,0.009,G
+168177,"Pears, asian, raw",9,1221,Histidine,0.005,G
+168177,"Pears, asian, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+168177,"Pears, asian, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+168177,"Pears, asian, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+168177,"Pears, asian, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+168177,"Pears, asian, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+168177,"Pears, asian, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169092,"Melons, cantaloupe, raw",9,1003,Protein,0.84,G
+169092,"Melons, cantaloupe, raw",9,1004,Total lipid (fat),0.19,G
+169092,"Melons, cantaloupe, raw",9,1005,"Carbohydrate, by difference",8.16,G
+169092,"Melons, cantaloupe, raw",9,1008,Energy,34.0,KCAL
+169092,"Melons, cantaloupe, raw",9,1087,"Calcium, Ca",9.0,MG
+169092,"Melons, cantaloupe, raw",9,1088,"Chlorine, Cl",0.0,MG
+169092,"Melons, cantaloupe, raw",9,1089,"Iron, Fe",0.21,MG
+169092,"Melons, cantaloupe, raw",9,1090,"Magnesium, Mg",12.0,MG
+169092,"Melons, cantaloupe, raw",9,1091,"Phosphorus, P",15.0,MG
+169092,"Melons, cantaloupe, raw",9,1092,"Potassium, K",267.0,MG
+169092,"Melons, cantaloupe, raw",9,1093,"Sodium, Na",16.0,MG
+169092,"Melons, cantaloupe, raw",9,1095,"Zinc, Zn",0.18,MG
+169092,"Melons, cantaloupe, raw",9,1098,"Copper, Cu",0.041,MG
+169092,"Melons, cantaloupe, raw",9,1100,"Iodine, I",0.0,UG
+169092,"Melons, cantaloupe, raw",9,1101,"Manganese, Mn",0.041,MG
+169092,"Melons, cantaloupe, raw",9,1103,"Selenium, Se",0.4,UG
+169092,"Melons, cantaloupe, raw",9,1104,"Vitamin A, IU",3382.0,IU
+169092,"Melons, cantaloupe, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169092,"Melons, cantaloupe, raw",9,1109,Vitamin E (alpha-tocopherol),0.05,MG
+169092,"Melons, cantaloupe, raw",9,1165,Thiamin,0.041,MG
+169092,"Melons, cantaloupe, raw",9,1166,Riboflavin,0.019,MG
+169092,"Melons, cantaloupe, raw",9,1167,Niacin,0.734,MG
+169092,"Melons, cantaloupe, raw",9,1170,Pantothenic acid,0.105,MG
+169092,"Melons, cantaloupe, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169092,"Melons, cantaloupe, raw",9,1178,Vitamin B-12,0.0,UG
+169092,"Melons, cantaloupe, raw",9,1180,"Choline, total",7.6,MG
+169092,"Melons, cantaloupe, raw",9,1186,Folic acid,0.0,UG
+169092,"Melons, cantaloupe, raw",9,1210,Tryptophan,0.002,G
+169092,"Melons, cantaloupe, raw",9,1211,Threonine,0.017,G
+169092,"Melons, cantaloupe, raw",9,1212,Isoleucine,0.021,G
+169092,"Melons, cantaloupe, raw",9,1213,Leucine,0.029,G
+169092,"Melons, cantaloupe, raw",9,1214,Lysine,0.03,G
+169092,"Melons, cantaloupe, raw",9,1215,Methionine,0.012,G
+169092,"Melons, cantaloupe, raw",9,1217,Phenylalanine,0.023,G
+169092,"Melons, cantaloupe, raw",9,1219,Valine,0.033,G
+169092,"Melons, cantaloupe, raw",9,1220,Arginine,0.029,G
+169092,"Melons, cantaloupe, raw",9,1221,Histidine,0.015,G
+169092,"Melons, cantaloupe, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169092,"Melons, cantaloupe, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169092,"Melons, cantaloupe, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169092,"Melons, cantaloupe, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169092,"Melons, cantaloupe, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169092,"Melons, cantaloupe, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169097,"Oranges, raw, all commercial varieties",9,1003,Protein,0.94,G
+169097,"Oranges, raw, all commercial varieties",9,1004,Total lipid (fat),0.12,G
+169097,"Oranges, raw, all commercial varieties",9,1005,"Carbohydrate, by difference",11.75,G
+169097,"Oranges, raw, all commercial varieties",9,1008,Energy,47.0,KCAL
+169097,"Oranges, raw, all commercial varieties",9,1087,"Calcium, Ca",40.0,MG
+169097,"Oranges, raw, all commercial varieties",9,1088,"Chlorine, Cl",0.0,MG
+169097,"Oranges, raw, all commercial varieties",9,1089,"Iron, Fe",0.1,MG
+169097,"Oranges, raw, all commercial varieties",9,1090,"Magnesium, Mg",10.0,MG
+169097,"Oranges, raw, all commercial varieties",9,1091,"Phosphorus, P",14.0,MG
+169097,"Oranges, raw, all commercial varieties",9,1092,"Potassium, K",181.0,MG
+169097,"Oranges, raw, all commercial varieties",9,1093,"Sodium, Na",0.0,MG
+169097,"Oranges, raw, all commercial varieties",9,1095,"Zinc, Zn",0.07,MG
+169097,"Oranges, raw, all commercial varieties",9,1098,"Copper, Cu",0.045,MG
+169097,"Oranges, raw, all commercial varieties",9,1100,"Iodine, I",0.0,UG
+169097,"Oranges, raw, all commercial varieties",9,1101,"Manganese, Mn",0.025,MG
+169097,"Oranges, raw, all commercial varieties",9,1103,"Selenium, Se",0.5,UG
+169097,"Oranges, raw, all commercial varieties",9,1104,"Vitamin A, IU",225.0,IU
+169097,"Oranges, raw, all commercial varieties",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169097,"Oranges, raw, all commercial varieties",9,1109,Vitamin E (alpha-tocopherol),0.18,MG
+169097,"Oranges, raw, all commercial varieties",9,1165,Thiamin,0.087,MG
+169097,"Oranges, raw, all commercial varieties",9,1166,Riboflavin,0.04,MG
+169097,"Oranges, raw, all commercial varieties",9,1167,Niacin,0.282,MG
+169097,"Oranges, raw, all commercial varieties",9,1170,Pantothenic acid,0.25,MG
+169097,"Oranges, raw, all commercial varieties",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169097,"Oranges, raw, all commercial varieties",9,1178,Vitamin B-12,0.0,UG
+169097,"Oranges, raw, all commercial varieties",9,1180,"Choline, total",8.4,MG
+169097,"Oranges, raw, all commercial varieties",9,1186,Folic acid,0.0,UG
+169097,"Oranges, raw, all commercial varieties",9,1210,Tryptophan,0.009,G
+169097,"Oranges, raw, all commercial varieties",9,1211,Threonine,0.015,G
+169097,"Oranges, raw, all commercial varieties",9,1212,Isoleucine,0.025,G
+169097,"Oranges, raw, all commercial varieties",9,1213,Leucine,0.023,G
+169097,"Oranges, raw, all commercial varieties",9,1214,Lysine,0.047,G
+169097,"Oranges, raw, all commercial varieties",9,1215,Methionine,0.02,G
+169097,"Oranges, raw, all commercial varieties",9,1217,Phenylalanine,0.031,G
+169097,"Oranges, raw, all commercial varieties",9,1219,Valine,0.04,G
+169097,"Oranges, raw, all commercial varieties",9,1220,Arginine,0.065,G
+169097,"Oranges, raw, all commercial varieties",9,1221,Histidine,0.018,G
+169097,"Oranges, raw, all commercial varieties",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169097,"Oranges, raw, all commercial varieties",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169097,"Oranges, raw, all commercial varieties",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169097,"Oranges, raw, all commercial varieties",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169097,"Oranges, raw, all commercial varieties",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169097,"Oranges, raw, all commercial varieties",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169118,"Pears, raw",9,1003,Protein,0.36,G
+169118,"Pears, raw",9,1004,Total lipid (fat),0.14,G
+169118,"Pears, raw",9,1005,"Carbohydrate, by difference",15.23,G
+169118,"Pears, raw",9,1008,Energy,57.0,KCAL
+169118,"Pears, raw",9,1087,"Calcium, Ca",9.0,MG
+169118,"Pears, raw",9,1088,"Chlorine, Cl",0.0,MG
+169118,"Pears, raw",9,1089,"Iron, Fe",0.18,MG
+169118,"Pears, raw",9,1090,"Magnesium, Mg",7.0,MG
+169118,"Pears, raw",9,1091,"Phosphorus, P",12.0,MG
+169118,"Pears, raw",9,1092,"Potassium, K",116.0,MG
+169118,"Pears, raw",9,1093,"Sodium, Na",1.0,MG
+169118,"Pears, raw",9,1095,"Zinc, Zn",0.1,MG
+169118,"Pears, raw",9,1098,"Copper, Cu",0.082,MG
+169118,"Pears, raw",9,1100,"Iodine, I",0.0,UG
+169118,"Pears, raw",9,1101,"Manganese, Mn",0.048,MG
+169118,"Pears, raw",9,1103,"Selenium, Se",0.1,UG
+169118,"Pears, raw",9,1104,"Vitamin A, IU",25.0,IU
+169118,"Pears, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169118,"Pears, raw",9,1109,Vitamin E (alpha-tocopherol),0.12,MG
+169118,"Pears, raw",9,1165,Thiamin,0.012,MG
+169118,"Pears, raw",9,1166,Riboflavin,0.026,MG
+169118,"Pears, raw",9,1167,Niacin,0.161,MG
+169118,"Pears, raw",9,1170,Pantothenic acid,0.049,MG
+169118,"Pears, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169118,"Pears, raw",9,1178,Vitamin B-12,0.0,UG
+169118,"Pears, raw",9,1180,"Choline, total",5.1,MG
+169118,"Pears, raw",9,1186,Folic acid,0.0,UG
+169118,"Pears, raw",9,1210,Tryptophan,0.002,G
+169118,"Pears, raw",9,1211,Threonine,0.011,G
+169118,"Pears, raw",9,1212,Isoleucine,0.011,G
+169118,"Pears, raw",9,1213,Leucine,0.019,G
+169118,"Pears, raw",9,1214,Lysine,0.017,G
+169118,"Pears, raw",9,1215,Methionine,0.002,G
+169118,"Pears, raw",9,1217,Phenylalanine,0.011,G
+169118,"Pears, raw",9,1219,Valine,0.017,G
+169118,"Pears, raw",9,1220,Arginine,0.01,G
+169118,"Pears, raw",9,1221,Histidine,0.002,G
+169118,"Pears, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169118,"Pears, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169118,"Pears, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169118,"Pears, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169118,"Pears, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169118,"Pears, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169124,"Pineapple, raw, all varieties",9,1003,Protein,0.54,G
+169124,"Pineapple, raw, all varieties",9,1004,Total lipid (fat),0.12,G
+169124,"Pineapple, raw, all varieties",9,1005,"Carbohydrate, by difference",13.12,G
+169124,"Pineapple, raw, all varieties",9,1008,Energy,50.0,KCAL
+169124,"Pineapple, raw, all varieties",9,1087,"Calcium, Ca",13.0,MG
+169124,"Pineapple, raw, all varieties",9,1088,"Chlorine, Cl",0.0,MG
+169124,"Pineapple, raw, all varieties",9,1089,"Iron, Fe",0.29,MG
+169124,"Pineapple, raw, all varieties",9,1090,"Magnesium, Mg",12.0,MG
+169124,"Pineapple, raw, all varieties",9,1091,"Phosphorus, P",8.0,MG
+169124,"Pineapple, raw, all varieties",9,1092,"Potassium, K",109.0,MG
+169124,"Pineapple, raw, all varieties",9,1093,"Sodium, Na",1.0,MG
+169124,"Pineapple, raw, all varieties",9,1095,"Zinc, Zn",0.12,MG
+169124,"Pineapple, raw, all varieties",9,1098,"Copper, Cu",0.11,MG
+169124,"Pineapple, raw, all varieties",9,1100,"Iodine, I",0.0,UG
+169124,"Pineapple, raw, all varieties",9,1101,"Manganese, Mn",0.927,MG
+169124,"Pineapple, raw, all varieties",9,1103,"Selenium, Se",0.1,UG
+169124,"Pineapple, raw, all varieties",9,1104,"Vitamin A, IU",58.0,IU
+169124,"Pineapple, raw, all varieties",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169124,"Pineapple, raw, all varieties",9,1109,Vitamin E (alpha-tocopherol),0.02,MG
+169124,"Pineapple, raw, all varieties",9,1165,Thiamin,0.079,MG
+169124,"Pineapple, raw, all varieties",9,1166,Riboflavin,0.032,MG
+169124,"Pineapple, raw, all varieties",9,1167,Niacin,0.5,MG
+169124,"Pineapple, raw, all varieties",9,1170,Pantothenic acid,0.213,MG
+169124,"Pineapple, raw, all varieties",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169124,"Pineapple, raw, all varieties",9,1178,Vitamin B-12,0.0,UG
+169124,"Pineapple, raw, all varieties",9,1180,"Choline, total",5.5,MG
+169124,"Pineapple, raw, all varieties",9,1186,Folic acid,0.0,UG
+169124,"Pineapple, raw, all varieties",9,1210,Tryptophan,0.005,G
+169124,"Pineapple, raw, all varieties",9,1211,Threonine,0.019,G
+169124,"Pineapple, raw, all varieties",9,1212,Isoleucine,0.019,G
+169124,"Pineapple, raw, all varieties",9,1213,Leucine,0.024,G
+169124,"Pineapple, raw, all varieties",9,1214,Lysine,0.026,G
+169124,"Pineapple, raw, all varieties",9,1215,Methionine,0.012,G
+169124,"Pineapple, raw, all varieties",9,1217,Phenylalanine,0.021,G
+169124,"Pineapple, raw, all varieties",9,1219,Valine,0.024,G
+169124,"Pineapple, raw, all varieties",9,1220,Arginine,0.019,G
+169124,"Pineapple, raw, all varieties",9,1221,Histidine,0.01,G
+169124,"Pineapple, raw, all varieties",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169124,"Pineapple, raw, all varieties",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169124,"Pineapple, raw, all varieties",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169124,"Pineapple, raw, all varieties",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169124,"Pineapple, raw, all varieties",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169124,"Pineapple, raw, all varieties",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169910,"Mangos, raw",9,1003,Protein,0.82,G
+169910,"Mangos, raw",9,1004,Total lipid (fat),0.38,G
+169910,"Mangos, raw",9,1005,"Carbohydrate, by difference",14.98,G
+169910,"Mangos, raw",9,1008,Energy,60.0,KCAL
+169910,"Mangos, raw",9,1087,"Calcium, Ca",11.0,MG
+169910,"Mangos, raw",9,1088,"Chlorine, Cl",0.0,MG
+169910,"Mangos, raw",9,1089,"Iron, Fe",0.16,MG
+169910,"Mangos, raw",9,1090,"Magnesium, Mg",10.0,MG
+169910,"Mangos, raw",9,1091,"Phosphorus, P",14.0,MG
+169910,"Mangos, raw",9,1092,"Potassium, K",168.0,MG
+169910,"Mangos, raw",9,1093,"Sodium, Na",1.0,MG
+169910,"Mangos, raw",9,1095,"Zinc, Zn",0.09,MG
+169910,"Mangos, raw",9,1098,"Copper, Cu",0.111,MG
+169910,"Mangos, raw",9,1100,"Iodine, I",0.0,UG
+169910,"Mangos, raw",9,1101,"Manganese, Mn",0.063,MG
+169910,"Mangos, raw",9,1103,"Selenium, Se",0.6,UG
+169910,"Mangos, raw",9,1104,"Vitamin A, IU",1082.0,IU
+169910,"Mangos, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169910,"Mangos, raw",9,1109,Vitamin E (alpha-tocopherol),0.9,MG
+169910,"Mangos, raw",9,1165,Thiamin,0.028,MG
+169910,"Mangos, raw",9,1166,Riboflavin,0.038,MG
+169910,"Mangos, raw",9,1167,Niacin,0.669,MG
+169910,"Mangos, raw",9,1170,Pantothenic acid,0.197,MG
+169910,"Mangos, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169910,"Mangos, raw",9,1178,Vitamin B-12,0.0,UG
+169910,"Mangos, raw",9,1180,"Choline, total",7.6,MG
+169910,"Mangos, raw",9,1186,Folic acid,0.0,UG
+169910,"Mangos, raw",9,1210,Tryptophan,0.013,G
+169910,"Mangos, raw",9,1211,Threonine,0.031,G
+169910,"Mangos, raw",9,1212,Isoleucine,0.029,G
+169910,"Mangos, raw",9,1213,Leucine,0.05,G
+169910,"Mangos, raw",9,1214,Lysine,0.066,G
+169910,"Mangos, raw",9,1215,Methionine,0.008,G
+169910,"Mangos, raw",9,1217,Phenylalanine,0.027,G
+169910,"Mangos, raw",9,1219,Valine,0.042,G
+169910,"Mangos, raw",9,1220,Arginine,0.031,G
+169910,"Mangos, raw",9,1221,Histidine,0.019,G
+169910,"Mangos, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169910,"Mangos, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169910,"Mangos, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169910,"Mangos, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169910,"Mangos, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169910,"Mangos, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169911,"Melons, honeydew, raw",9,1003,Protein,0.54,G
+169911,"Melons, honeydew, raw",9,1004,Total lipid (fat),0.14,G
+169911,"Melons, honeydew, raw",9,1005,"Carbohydrate, by difference",9.09,G
+169911,"Melons, honeydew, raw",9,1008,Energy,36.0,KCAL
+169911,"Melons, honeydew, raw",9,1087,"Calcium, Ca",6.0,MG
+169911,"Melons, honeydew, raw",9,1088,"Chlorine, Cl",0.0,MG
+169911,"Melons, honeydew, raw",9,1089,"Iron, Fe",0.17,MG
+169911,"Melons, honeydew, raw",9,1090,"Magnesium, Mg",10.0,MG
+169911,"Melons, honeydew, raw",9,1091,"Phosphorus, P",11.0,MG
+169911,"Melons, honeydew, raw",9,1092,"Potassium, K",228.0,MG
+169911,"Melons, honeydew, raw",9,1093,"Sodium, Na",18.0,MG
+169911,"Melons, honeydew, raw",9,1095,"Zinc, Zn",0.09,MG
+169911,"Melons, honeydew, raw",9,1098,"Copper, Cu",0.024,MG
+169911,"Melons, honeydew, raw",9,1100,"Iodine, I",0.0,UG
+169911,"Melons, honeydew, raw",9,1101,"Manganese, Mn",0.027,MG
+169911,"Melons, honeydew, raw",9,1103,"Selenium, Se",0.7,UG
+169911,"Melons, honeydew, raw",9,1104,"Vitamin A, IU",50.0,IU
+169911,"Melons, honeydew, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169911,"Melons, honeydew, raw",9,1109,Vitamin E (alpha-tocopherol),0.02,MG
+169911,"Melons, honeydew, raw",9,1165,Thiamin,0.038,MG
+169911,"Melons, honeydew, raw",9,1166,Riboflavin,0.012,MG
+169911,"Melons, honeydew, raw",9,1167,Niacin,0.418,MG
+169911,"Melons, honeydew, raw",9,1170,Pantothenic acid,0.155,MG
+169911,"Melons, honeydew, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169911,"Melons, honeydew, raw",9,1178,Vitamin B-12,0.0,UG
+169911,"Melons, honeydew, raw",9,1180,"Choline, total",7.6,MG
+169911,"Melons, honeydew, raw",9,1186,Folic acid,0.0,UG
+169911,"Melons, honeydew, raw",9,1210,Tryptophan,0.005,G
+169911,"Melons, honeydew, raw",9,1211,Threonine,0.013,G
+169911,"Melons, honeydew, raw",9,1212,Isoleucine,0.013,G
+169911,"Melons, honeydew, raw",9,1213,Leucine,0.016,G
+169911,"Melons, honeydew, raw",9,1214,Lysine,0.018,G
+169911,"Melons, honeydew, raw",9,1215,Methionine,0.005,G
+169911,"Melons, honeydew, raw",9,1217,Phenylalanine,0.015,G
+169911,"Melons, honeydew, raw",9,1219,Valine,0.018,G
+169911,"Melons, honeydew, raw",9,1220,Arginine,0.014,G
+169911,"Melons, honeydew, raw",9,1221,Histidine,0.005,G
+169911,"Melons, honeydew, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169911,"Melons, honeydew, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169911,"Melons, honeydew, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169911,"Melons, honeydew, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169911,"Melons, honeydew, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169911,"Melons, honeydew, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169914,"Nectarines, raw",9,1003,Protein,1.06,G
+169914,"Nectarines, raw",9,1004,Total lipid (fat),0.32,G
+169914,"Nectarines, raw",9,1005,"Carbohydrate, by difference",10.55,G
+169914,"Nectarines, raw",9,1008,Energy,44.0,KCAL
+169914,"Nectarines, raw",9,1087,"Calcium, Ca",6.0,MG
+169914,"Nectarines, raw",9,1088,"Chlorine, Cl",0.0,MG
+169914,"Nectarines, raw",9,1089,"Iron, Fe",0.28,MG
+169914,"Nectarines, raw",9,1090,"Magnesium, Mg",9.0,MG
+169914,"Nectarines, raw",9,1091,"Phosphorus, P",26.0,MG
+169914,"Nectarines, raw",9,1092,"Potassium, K",201.0,MG
+169914,"Nectarines, raw",9,1093,"Sodium, Na",0.0,MG
+169914,"Nectarines, raw",9,1095,"Zinc, Zn",0.17,MG
+169914,"Nectarines, raw",9,1098,"Copper, Cu",0.086,MG
+169914,"Nectarines, raw",9,1100,"Iodine, I",0.0,UG
+169914,"Nectarines, raw",9,1101,"Manganese, Mn",0.054,MG
+169914,"Nectarines, raw",9,1103,"Selenium, Se",0.0,UG
+169914,"Nectarines, raw",9,1104,"Vitamin A, IU",332.0,IU
+169914,"Nectarines, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169914,"Nectarines, raw",9,1109,Vitamin E (alpha-tocopherol),0.77,MG
+169914,"Nectarines, raw",9,1165,Thiamin,0.034,MG
+169914,"Nectarines, raw",9,1166,Riboflavin,0.027,MG
+169914,"Nectarines, raw",9,1167,Niacin,1.125,MG
+169914,"Nectarines, raw",9,1170,Pantothenic acid,0.185,MG
+169914,"Nectarines, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169914,"Nectarines, raw",9,1178,Vitamin B-12,0.0,UG
+169914,"Nectarines, raw",9,1180,"Choline, total",6.2,MG
+169914,"Nectarines, raw",9,1186,Folic acid,0.0,UG
+169914,"Nectarines, raw",9,1210,Tryptophan,0.005,G
+169914,"Nectarines, raw",9,1211,Threonine,0.009,G
+169914,"Nectarines, raw",9,1212,Isoleucine,0.009,G
+169914,"Nectarines, raw",9,1213,Leucine,0.014,G
+169914,"Nectarines, raw",9,1214,Lysine,0.016,G
+169914,"Nectarines, raw",9,1215,Methionine,0.006,G
+169914,"Nectarines, raw",9,1217,Phenylalanine,0.021,G
+169914,"Nectarines, raw",9,1219,Valine,0.013,G
+169914,"Nectarines, raw",9,1220,Arginine,0.009,G
+169914,"Nectarines, raw",9,1221,Histidine,0.008,G
+169914,"Nectarines, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169914,"Nectarines, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169914,"Nectarines, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169914,"Nectarines, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169914,"Nectarines, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169914,"Nectarines, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169926,"Papayas, raw",9,1003,Protein,0.47,G
+169926,"Papayas, raw",9,1004,Total lipid (fat),0.26,G
+169926,"Papayas, raw",9,1005,"Carbohydrate, by difference",10.82,G
+169926,"Papayas, raw",9,1008,Energy,43.0,KCAL
+169926,"Papayas, raw",9,1087,"Calcium, Ca",20.0,MG
+169926,"Papayas, raw",9,1088,"Chlorine, Cl",0.0,MG
+169926,"Papayas, raw",9,1089,"Iron, Fe",0.25,MG
+169926,"Papayas, raw",9,1090,"Magnesium, Mg",21.0,MG
+169926,"Papayas, raw",9,1091,"Phosphorus, P",10.0,MG
+169926,"Papayas, raw",9,1092,"Potassium, K",182.0,MG
+169926,"Papayas, raw",9,1093,"Sodium, Na",8.0,MG
+169926,"Papayas, raw",9,1095,"Zinc, Zn",0.08,MG
+169926,"Papayas, raw",9,1098,"Copper, Cu",0.045,MG
+169926,"Papayas, raw",9,1100,"Iodine, I",0.0,UG
+169926,"Papayas, raw",9,1101,"Manganese, Mn",0.04,MG
+169926,"Papayas, raw",9,1103,"Selenium, Se",0.6,UG
+169926,"Papayas, raw",9,1104,"Vitamin A, IU",950.0,IU
+169926,"Papayas, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169926,"Papayas, raw",9,1109,Vitamin E (alpha-tocopherol),0.3,MG
+169926,"Papayas, raw",9,1165,Thiamin,0.023,MG
+169926,"Papayas, raw",9,1166,Riboflavin,0.027,MG
+169926,"Papayas, raw",9,1167,Niacin,0.357,MG
+169926,"Papayas, raw",9,1170,Pantothenic acid,0.191,MG
+169926,"Papayas, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169926,"Papayas, raw",9,1178,Vitamin B-12,0.0,UG
+169926,"Papayas, raw",9,1180,"Choline, total",6.1,MG
+169926,"Papayas, raw",9,1186,Folic acid,0.0,UG
+169926,"Papayas, raw",9,1210,Tryptophan,0.008,G
+169926,"Papayas, raw",9,1211,Threonine,0.011,G
+169926,"Papayas, raw",9,1212,Isoleucine,0.008,G
+169926,"Papayas, raw",9,1213,Leucine,0.016,G
+169926,"Papayas, raw",9,1214,Lysine,0.025,G
+169926,"Papayas, raw",9,1215,Methionine,0.002,G
+169926,"Papayas, raw",9,1217,Phenylalanine,0.009,G
+169926,"Papayas, raw",9,1219,Valine,0.01,G
+169926,"Papayas, raw",9,1220,Arginine,0.01,G
+169926,"Papayas, raw",9,1221,Histidine,0.005,G
+169926,"Papayas, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169926,"Papayas, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169926,"Papayas, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169926,"Papayas, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169926,"Papayas, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169926,"Papayas, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169928,"Peaches, yellow, raw",9,1003,Protein,0.91,G
+169928,"Peaches, yellow, raw",9,1004,Total lipid (fat),0.25,G
+169928,"Peaches, yellow, raw",9,1005,"Carbohydrate, by difference",9.54,G
+169928,"Peaches, yellow, raw",9,1008,Energy,39.0,KCAL
+169928,"Peaches, yellow, raw",9,1087,"Calcium, Ca",6.0,MG
+169928,"Peaches, yellow, raw",9,1088,"Chlorine, Cl",0.0,MG
+169928,"Peaches, yellow, raw",9,1089,"Iron, Fe",0.25,MG
+169928,"Peaches, yellow, raw",9,1090,"Magnesium, Mg",9.0,MG
+169928,"Peaches, yellow, raw",9,1091,"Phosphorus, P",20.0,MG
+169928,"Peaches, yellow, raw",9,1092,"Potassium, K",190.0,MG
+169928,"Peaches, yellow, raw",9,1093,"Sodium, Na",0.0,MG
+169928,"Peaches, yellow, raw",9,1095,"Zinc, Zn",0.17,MG
+169928,"Peaches, yellow, raw",9,1098,"Copper, Cu",0.068,MG
+169928,"Peaches, yellow, raw",9,1100,"Iodine, I",0.0,UG
+169928,"Peaches, yellow, raw",9,1101,"Manganese, Mn",0.061,MG
+169928,"Peaches, yellow, raw",9,1103,"Selenium, Se",0.1,UG
+169928,"Peaches, yellow, raw",9,1104,"Vitamin A, IU",326.0,IU
+169928,"Peaches, yellow, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169928,"Peaches, yellow, raw",9,1109,Vitamin E (alpha-tocopherol),0.73,MG
+169928,"Peaches, yellow, raw",9,1165,Thiamin,0.024,MG
+169928,"Peaches, yellow, raw",9,1166,Riboflavin,0.031,MG
+169928,"Peaches, yellow, raw",9,1167,Niacin,0.806,MG
+169928,"Peaches, yellow, raw",9,1170,Pantothenic acid,0.153,MG
+169928,"Peaches, yellow, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169928,"Peaches, yellow, raw",9,1178,Vitamin B-12,0.0,UG
+169928,"Peaches, yellow, raw",9,1180,"Choline, total",6.1,MG
+169928,"Peaches, yellow, raw",9,1186,Folic acid,0.0,UG
+169928,"Peaches, yellow, raw",9,1210,Tryptophan,0.01,G
+169928,"Peaches, yellow, raw",9,1211,Threonine,0.016,G
+169928,"Peaches, yellow, raw",9,1212,Isoleucine,0.017,G
+169928,"Peaches, yellow, raw",9,1213,Leucine,0.027,G
+169928,"Peaches, yellow, raw",9,1214,Lysine,0.03,G
+169928,"Peaches, yellow, raw",9,1215,Methionine,0.01,G
+169928,"Peaches, yellow, raw",9,1217,Phenylalanine,0.019,G
+169928,"Peaches, yellow, raw",9,1219,Valine,0.022,G
+169928,"Peaches, yellow, raw",9,1220,Arginine,0.018,G
+169928,"Peaches, yellow, raw",9,1221,Histidine,0.013,G
+169928,"Peaches, yellow, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169928,"Peaches, yellow, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169928,"Peaches, yellow, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169928,"Peaches, yellow, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169928,"Peaches, yellow, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169928,"Peaches, yellow, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+169949,"Plums, raw",9,1003,Protein,0.7,G
+169949,"Plums, raw",9,1004,Total lipid (fat),0.28,G
+169949,"Plums, raw",9,1005,"Carbohydrate, by difference",11.42,G
+169949,"Plums, raw",9,1008,Energy,46.0,KCAL
+169949,"Plums, raw",9,1087,"Calcium, Ca",6.0,MG
+169949,"Plums, raw",9,1088,"Chlorine, Cl",0.0,MG
+169949,"Plums, raw",9,1089,"Iron, Fe",0.17,MG
+169949,"Plums, raw",9,1090,"Magnesium, Mg",7.0,MG
+169949,"Plums, raw",9,1091,"Phosphorus, P",16.0,MG
+169949,"Plums, raw",9,1092,"Potassium, K",157.0,MG
+169949,"Plums, raw",9,1093,"Sodium, Na",0.0,MG
+169949,"Plums, raw",9,1095,"Zinc, Zn",0.1,MG
+169949,"Plums, raw",9,1098,"Copper, Cu",0.057,MG
+169949,"Plums, raw",9,1100,"Iodine, I",0.0,UG
+169949,"Plums, raw",9,1101,"Manganese, Mn",0.052,MG
+169949,"Plums, raw",9,1103,"Selenium, Se",0.0,UG
+169949,"Plums, raw",9,1104,"Vitamin A, IU",345.0,IU
+169949,"Plums, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+169949,"Plums, raw",9,1109,Vitamin E (alpha-tocopherol),0.26,MG
+169949,"Plums, raw",9,1165,Thiamin,0.028,MG
+169949,"Plums, raw",9,1166,Riboflavin,0.026,MG
+169949,"Plums, raw",9,1167,Niacin,0.417,MG
+169949,"Plums, raw",9,1170,Pantothenic acid,0.135,MG
+169949,"Plums, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+169949,"Plums, raw",9,1178,Vitamin B-12,0.0,UG
+169949,"Plums, raw",9,1180,"Choline, total",1.9,MG
+169949,"Plums, raw",9,1186,Folic acid,0.0,UG
+169949,"Plums, raw",9,1210,Tryptophan,0.009,G
+169949,"Plums, raw",9,1211,Threonine,0.01,G
+169949,"Plums, raw",9,1212,Isoleucine,0.014,G
+169949,"Plums, raw",9,1213,Leucine,0.015,G
+169949,"Plums, raw",9,1214,Lysine,0.016,G
+169949,"Plums, raw",9,1215,Methionine,0.008,G
+169949,"Plums, raw",9,1217,Phenylalanine,0.014,G
+169949,"Plums, raw",9,1219,Valine,0.016,G
+169949,"Plums, raw",9,1220,Arginine,0.009,G
+169949,"Plums, raw",9,1221,Histidine,0.009,G
+169949,"Plums, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+169949,"Plums, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+169949,"Plums, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+169949,"Plums, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+169949,"Plums, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+169949,"Plums, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1003,Protein,0.26,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1004,Total lipid (fat),0.17,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1005,"Carbohydrate, by difference",13.81,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1008,Energy,52.0,KCAL
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1087,"Calcium, Ca",6.0,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1088,"Chlorine, Cl",0.0,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1089,"Iron, Fe",0.12,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1090,"Magnesium, Mg",5.0,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1091,"Phosphorus, P",11.0,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1092,"Potassium, K",107.0,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1093,"Sodium, Na",1.0,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1095,"Zinc, Zn",0.04,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1098,"Copper, Cu",0.027,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1100,"Iodine, I",0.0,UG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1101,"Manganese, Mn",0.035,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1103,"Selenium, Se",0.0,UG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1104,"Vitamin A, IU",54.0,IU
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1109,Vitamin E (alpha-tocopherol),0.18,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1165,Thiamin,0.017,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1166,Riboflavin,0.026,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1167,Niacin,0.091,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1170,Pantothenic acid,0.061,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1178,Vitamin B-12,0.0,UG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1180,"Choline, total",3.4,MG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1186,Folic acid,0.0,UG
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1210,Tryptophan,0.001,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1211,Threonine,0.006,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1212,Isoleucine,0.006,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1213,Leucine,0.013,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1214,Lysine,0.012,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1215,Methionine,0.001,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1217,Phenylalanine,0.006,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1219,Valine,0.012,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1220,Arginine,0.006,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1221,Histidine,0.005,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171711,"Blueberries, raw",9,1003,Protein,0.74,G
+171711,"Blueberries, raw",9,1004,Total lipid (fat),0.33,G
+171711,"Blueberries, raw",9,1005,"Carbohydrate, by difference",14.49,G
+171711,"Blueberries, raw",9,1008,Energy,57.0,KCAL
+171711,"Blueberries, raw",9,1087,"Calcium, Ca",6.0,MG
+171711,"Blueberries, raw",9,1088,"Chlorine, Cl",0.0,MG
+171711,"Blueberries, raw",9,1089,"Iron, Fe",0.28,MG
+171711,"Blueberries, raw",9,1090,"Magnesium, Mg",6.0,MG
+171711,"Blueberries, raw",9,1091,"Phosphorus, P",12.0,MG
+171711,"Blueberries, raw",9,1092,"Potassium, K",77.0,MG
+171711,"Blueberries, raw",9,1093,"Sodium, Na",1.0,MG
+171711,"Blueberries, raw",9,1095,"Zinc, Zn",0.16,MG
+171711,"Blueberries, raw",9,1098,"Copper, Cu",0.057,MG
+171711,"Blueberries, raw",9,1100,"Iodine, I",0.0,UG
+171711,"Blueberries, raw",9,1101,"Manganese, Mn",0.336,MG
+171711,"Blueberries, raw",9,1103,"Selenium, Se",0.1,UG
+171711,"Blueberries, raw",9,1104,"Vitamin A, IU",54.0,IU
+171711,"Blueberries, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171711,"Blueberries, raw",9,1109,Vitamin E (alpha-tocopherol),0.57,MG
+171711,"Blueberries, raw",9,1165,Thiamin,0.037,MG
+171711,"Blueberries, raw",9,1166,Riboflavin,0.041,MG
+171711,"Blueberries, raw",9,1167,Niacin,0.418,MG
+171711,"Blueberries, raw",9,1170,Pantothenic acid,0.124,MG
+171711,"Blueberries, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171711,"Blueberries, raw",9,1178,Vitamin B-12,0.0,UG
+171711,"Blueberries, raw",9,1180,"Choline, total",6.0,MG
+171711,"Blueberries, raw",9,1186,Folic acid,0.0,UG
+171711,"Blueberries, raw",9,1210,Tryptophan,0.003,G
+171711,"Blueberries, raw",9,1211,Threonine,0.02,G
+171711,"Blueberries, raw",9,1212,Isoleucine,0.023,G
+171711,"Blueberries, raw",9,1213,Leucine,0.044,G
+171711,"Blueberries, raw",9,1214,Lysine,0.013,G
+171711,"Blueberries, raw",9,1215,Methionine,0.012,G
+171711,"Blueberries, raw",9,1217,Phenylalanine,0.026,G
+171711,"Blueberries, raw",9,1219,Valine,0.031,G
+171711,"Blueberries, raw",9,1220,Arginine,0.037,G
+171711,"Blueberries, raw",9,1221,Histidine,0.011,G
+171711,"Blueberries, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171711,"Blueberries, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171711,"Blueberries, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171711,"Blueberries, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171711,"Blueberries, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171711,"Blueberries, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+171722,"Cranberries, raw",9,1003,Protein,0.46,G
+171722,"Cranberries, raw",9,1004,Total lipid (fat),0.13,G
+171722,"Cranberries, raw",9,1005,"Carbohydrate, by difference",11.97,G
+171722,"Cranberries, raw",9,1008,Energy,46.0,KCAL
+171722,"Cranberries, raw",9,1087,"Calcium, Ca",8.0,MG
+171722,"Cranberries, raw",9,1088,"Chlorine, Cl",0.0,MG
+171722,"Cranberries, raw",9,1089,"Iron, Fe",0.23,MG
+171722,"Cranberries, raw",9,1090,"Magnesium, Mg",6.0,MG
+171722,"Cranberries, raw",9,1091,"Phosphorus, P",11.0,MG
+171722,"Cranberries, raw",9,1092,"Potassium, K",80.0,MG
+171722,"Cranberries, raw",9,1093,"Sodium, Na",2.0,MG
+171722,"Cranberries, raw",9,1095,"Zinc, Zn",0.09,MG
+171722,"Cranberries, raw",9,1098,"Copper, Cu",0.056,MG
+171722,"Cranberries, raw",9,1100,"Iodine, I",0.0,UG
+171722,"Cranberries, raw",9,1101,"Manganese, Mn",0.267,MG
+171722,"Cranberries, raw",9,1103,"Selenium, Se",0.1,UG
+171722,"Cranberries, raw",9,1104,"Vitamin A, IU",63.0,IU
+171722,"Cranberries, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+171722,"Cranberries, raw",9,1109,Vitamin E (alpha-tocopherol),1.32,MG
+171722,"Cranberries, raw",9,1165,Thiamin,0.012,MG
+171722,"Cranberries, raw",9,1166,Riboflavin,0.02,MG
+171722,"Cranberries, raw",9,1167,Niacin,0.101,MG
+171722,"Cranberries, raw",9,1170,Pantothenic acid,0.295,MG
+171722,"Cranberries, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+171722,"Cranberries, raw",9,1178,Vitamin B-12,0.0,UG
+171722,"Cranberries, raw",9,1180,"Choline, total",5.5,MG
+171722,"Cranberries, raw",9,1186,Folic acid,0.0,UG
+171722,"Cranberries, raw",9,1210,Tryptophan,0.003,G
+171722,"Cranberries, raw",9,1211,Threonine,0.028,G
+171722,"Cranberries, raw",9,1212,Isoleucine,0.033,G
+171722,"Cranberries, raw",9,1213,Leucine,0.053,G
+171722,"Cranberries, raw",9,1214,Lysine,0.039,G
+171722,"Cranberries, raw",9,1215,Methionine,0.003,G
+171722,"Cranberries, raw",9,1217,Phenylalanine,0.036,G
+171722,"Cranberries, raw",9,1219,Valine,0.045,G
+171722,"Cranberries, raw",9,1220,Arginine,0.056,G
+171722,"Cranberries, raw",9,1221,Histidine,0.018,G
+171722,"Cranberries, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+171722,"Cranberries, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+171722,"Cranberries, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+171722,"Cranberries, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+171722,"Cranberries, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+171722,"Cranberries, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+173946,"Blackberries, raw",9,1003,Protein,1.39,G
+173946,"Blackberries, raw",9,1004,Total lipid (fat),0.49,G
+173946,"Blackberries, raw",9,1005,"Carbohydrate, by difference",9.61,G
+173946,"Blackberries, raw",9,1008,Energy,43.0,KCAL
+173946,"Blackberries, raw",9,1087,"Calcium, Ca",29.0,MG
+173946,"Blackberries, raw",9,1088,"Chlorine, Cl",0.0,MG
+173946,"Blackberries, raw",9,1089,"Iron, Fe",0.62,MG
+173946,"Blackberries, raw",9,1090,"Magnesium, Mg",20.0,MG
+173946,"Blackberries, raw",9,1091,"Phosphorus, P",22.0,MG
+173946,"Blackberries, raw",9,1092,"Potassium, K",162.0,MG
+173946,"Blackberries, raw",9,1093,"Sodium, Na",1.0,MG
+173946,"Blackberries, raw",9,1095,"Zinc, Zn",0.53,MG
+173946,"Blackberries, raw",9,1098,"Copper, Cu",0.165,MG
+173946,"Blackberries, raw",9,1100,"Iodine, I",0.0,UG
+173946,"Blackberries, raw",9,1101,"Manganese, Mn",0.646,MG
+173946,"Blackberries, raw",9,1103,"Selenium, Se",0.4,UG
+173946,"Blackberries, raw",9,1104,"Vitamin A, IU",214.0,IU
+173946,"Blackberries, raw",9,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+173946,"Blackberries, raw",9,1109,Vitamin E (alpha-tocopherol),1.17,MG
+173946,"Blackberries, raw",9,1165,Thiamin,0.02,MG
+173946,"Blackberries, raw",9,1166,Riboflavin,0.026,MG
+173946,"Blackberries, raw",9,1167,Niacin,0.646,MG
+173946,"Blackberries, raw",9,1170,Pantothenic acid,0.276,MG
+173946,"Blackberries, raw",9,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+173946,"Blackberries, raw",9,1178,Vitamin B-12,0.0,UG
+173946,"Blackberries, raw",9,1180,"Choline, total",8.5,MG
+173946,"Blackberries, raw",9,1186,Folic acid,0.0,UG
+173946,"Blackberries, raw",9,1210,Tryptophan,0.0,G
+173946,"Blackberries, raw",9,1211,Threonine,0.0,G
+173946,"Blackberries, raw",9,1212,Isoleucine,0.0,G
+173946,"Blackberries, raw",9,1213,Leucine,0.0,G
+173946,"Blackberries, raw",9,1214,Lysine,0.0,G
+173946,"Blackberries, raw",9,1215,Methionine,0.0,G
+173946,"Blackberries, raw",9,1217,Phenylalanine,0.0,G
+173946,"Blackberries, raw",9,1219,Valine,0.0,G
+173946,"Blackberries, raw",9,1220,Arginine,0.0,G
+173946,"Blackberries, raw",9,1221,Histidine,0.0,G
+173946,"Blackberries, raw",9,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+173946,"Blackberries, raw",9,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+173946,"Blackberries, raw",9,1272,PUFA 22:6 n-3 (DHA),0.0,G
+173946,"Blackberries, raw",9,1278,PUFA 20:5 n-3 (EPA),0.0,G
+173946,"Blackberries, raw",9,1316,"PUFA 18:2 n-6 c,c",0.0,G
+173946,"Blackberries, raw",9,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1003,Protein,6.2,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1004,Total lipid (fat),16.4,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1005,"Carbohydrate, by difference",50.9,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1008,Energy,372.0,KCAL
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1087,"Calcium, Ca",72.0,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1088,"Chlorine, Cl",0.0,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1089,"Iron, Fe",1.6,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1090,"Magnesium, Mg",17.0,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1091,"Phosphorus, P",76.0,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1092,"Potassium, K",111.0,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1093,"Sodium, Na",304.0,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1095,"Zinc, Zn",0.59,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1098,"Copper, Cu",0.088,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1100,"Iodine, I",0.0,UG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1101,"Manganese, Mn",0.3,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1103,"Selenium, Se",17.0,UG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1104,"Vitamin A, IU",214.0,IU
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1110,"Vitamin D (D2 + D3), International Units",0.0,IU
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1109,Vitamin E (alpha-tocopherol),1.99,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1165,Thiamin,0.324,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1166,Riboflavin,0.265,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1167,Niacin,2.384,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1170,Pantothenic acid,0.406,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1171,"Vitamin B-6, pyridoxine, alcohol form",0.0,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1178,Vitamin B-12,0.14,UG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1180,"Choline, total",41.3,MG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1186,Folic acid,48.0,UG
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1210,Tryptophan,0.074,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1211,Threonine,0.211,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1212,Isoleucine,0.259,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1213,Leucine,0.458,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1214,Lysine,0.243,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1215,Methionine,0.117,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1217,Phenylalanine,0.3,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1219,Valine,0.291,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1220,Arginine,0.283,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1221,Histidine,0.145,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1229,Cysteine and methionine(sulfer containig AA),0.0,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1230,Phenylalanine and tyrosine (aromatic  AA),0.0,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1272,PUFA 22:6 n-3 (DHA),0.004,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1278,PUFA 20:5 n-3 (EPA),0.0,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1316,"PUFA 18:2 n-6 c,c",0.0,G
+175034,"Sweet rolls, cinnamon, commercially prepared with raisins",18,1404,"PUFA 18:3 n-3 c,c,c (ALA)",0.0,G
