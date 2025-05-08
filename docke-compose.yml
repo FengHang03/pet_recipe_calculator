@@ -1,0 +1,128 @@
+
+# docker-compose.yml - 用于在Docker环境中运行API服务
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: pet-recipe-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data  # 挂载数据目录
+      - ./logs:/app/logs  # 挂载日志目录
+    environment:
+      - ENVIRONMENT=production
+      - PORT=8000
+      - WORKERS=4
+      - RATE_LIMIT=100
+      - API_KEYS=${API_KEYS:-default-api-key-1,default-api-key-2}
+      - CORS_ORIGINS=${CORS_ORIGINS:-http://localhost:8080}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  # 可选：添加Nginx作为反向代理
+  nginx:
+    image: nginx:alpine
+    container_name: pet-recipe-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./nginx/ssl:/etc/nginx/ssl
+      - ./nginx/logs:/var/log/nginx
+    depends_on:
+      - api
+    restart: unless-stopped
+
+# .env.example - 环境变量示例文件
+API_KEYS=your-api-key-1,your-api-key-2
+CORS_ORIGINS=http://localhost:8080,https://your-website.com
+ENVIRONMENT=production
+PORT=8000
+WORKERS=4
+RATE_LIMIT=100
+LOG_LEVEL=INFO
+
+# nginx/conf.d/default.conf - Nginx配置文件示例
+server {
+    listen 80;
+    server_name api.yourcompany.com;
+    
+    # 将HTTP请求重定向到HTTPS
+    location / {
+        return 301 https://$host$request_uri;
+    }
+}
+
+server {
+    listen 443 ssl;
+    server_name api.yourcompany.com;
+    
+    # SSL配置
+    ssl_certificate /etc/nginx/ssl/cert.pem;
+    ssl_certificate_key /etc/nginx/ssl/key.pem;
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_ciphers HIGH:!aNULL:!MD5;
+    
+    # 安全头
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains" always;
+    add_header X-Content-Type-Options nosniff;
+    add_header X-Frame-Options DENY;
+    add_header X-XSS-Protection "1; mode=block";
+    
+    # API代理
+    location /api/ {
+        proxy_pass http://api:8000/api/;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        
+        # 超时设置
+        proxy_connect_timeout 60s;
+        proxy_send_timeout 60s;
+        proxy_read_timeout 300s; # 长时间运行的请求
+        
+        # 缓冲设置
+        proxy_buffering on;
+        proxy_buffer_size 16k;
+        proxy_busy_buffers_size 24k;
+        proxy_buffers 64 4k;
+        
+        # 启用Gzip压缩
+        gzip on;
+        gzip_types application/json;
+        gzip_min_length 1000;
+    }
+    
+    # 健康检查端点
+    location /api/health {
+        proxy_pass http://api:8000/api/health;
+        proxy_set_header Host $host;
+        
+        # 允许内部健康检查
+        allow 127.0.0.1;
+        allow 10.0.0.0/8;
+        allow 172.16.0.0/12;
+        allow 192.168.0.0/16;
+        deny all;
+    }
+    
+    # 静态文件缓存
+    location /static/ {
+        alias /app/static/;
+        expires 30d;
+        add_header Cache-Control "public, max-age=2592000";
+    }
+    
+    # 日志设置
+    access_log /var/log/nginx/api-access.log;
+    error_log /var/log/nginx/api-error.log;
+}

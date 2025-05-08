@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Logs
+*.log
+api_service.log
+pet_recipe.log
+pet_recipe_client.log
+
+# Environment variables
+.env
+client.env
+
+# IDE
+.vscode/
+.idea/
+
+# Output directory
+output/
+
+# Docker
+.docker/
+
+# Data directory (if it contains sensitive data)
+data/ 
